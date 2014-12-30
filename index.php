@@ -1,6 +1,5 @@
 <?php
-require __DIR__.'/assets/js/dispatch.php';
-require __DIR__.'/assets/js/parsedown.php';
+require 'vendor/autoload.php';
 
 error_reporting(E_ALL|E_STRICT);
 

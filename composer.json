@@ -1,0 +1,14 @@
+{
+    "name": "paul/studia2",
+    "description": "code for studia-phaenomenologica.com",
+    "authors": [
+        {
+            "name": "Paul Balogh",
+            "email": "paul.balogh@gmail.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "~1.1",
+        "dispatch/dispatch": "~6.1"
+    }
+}
