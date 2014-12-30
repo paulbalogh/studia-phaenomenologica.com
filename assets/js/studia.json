@@ -1,0 +1,1106 @@
+{
+  "journal": {
+    "journalTitle": "Studia Phaenomenologica",
+    "journalSubtitle": "Romanian Journal for Phenomenology",
+    "journalEditor": "Cristian Ciocan",
+    "issnOnline": "2069-0061",
+    "issnPrint": "1582-5647",
+    "publisher": [
+      {
+        "name": "Romanian Society for Phenomenology",
+        "url": "http://phenomenology.ro"
+      },
+      {
+        "name": "Humanitas",
+        "url": "http://humanitas.ro"
+      }
+    ]
+  },
+  "issue": {
+    "14": {
+      "title": "Place, Environment, Atmosphere",
+      "number": "vol. XIV",
+      "year": 2014,
+      "cover": "sp14.png",
+      "issueCoordinator": [
+        "Mădălina Diaconu",
+        "Ion Copoeru"
+      ],
+      "isbnPaperback": "978-973-50-4669-9",
+      "isbnEbook": "978-973-50-4670-5",
+      "pages": "424",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 18097655,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 18097659,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 18097746,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 18097750,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 18097792,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 18097796,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+        {
+          "sectionTitle": "A. Articles",
+          "articles": [
+            {
+              "authors": "Mădălina Diaconu, Ion Copoeru",
+              "title": "Introduction. Lived Places, Environments and Atmospheres: Phenomenology and the Transformations of Experience"
+            },
+            {
+              "authors": "Arnold Berleant",
+              "title": "Environmental Sensibility",
+              "abstract": "Aesthetics is fundamentally a theory of sensible experience. Its scope has expanded greatly from an initial centering on the arts and scenic nature to the full range of appreciative experience. Expanding the range of aesthetics raises challenging questions about the experience of appreciation. Traditional accounts are inadequate in their attempt to identify and illuminate the perceptual experiences that these new applications evoke. Considering the range of environmental and everyday occasions aesthetically changes aesthetics into a descriptive and not necessarily celebratory study of sensible experience, for it must now accommodate a complete range of negative as well as positive values. This paper develops an analysis of the multiple dimensions of environmental sensibility."
+            },
+            {
+              "authors": "Gernot Böhme",
+              "title": "Atmosphäre als Begriff der Ästhetik",
+              "abstract": "The concept of *atmosphere* may be defined as *tuned space*, i.e. space with a mood. This concept opens a lot of new perspectives for Aesthetics. The very paradigm of it is stage design. Stage designers install a certain climate on the stage. But in our days almost everything is staged. Thus the theory of atmosphere finds applications in Commodity Aesthetics, Design, Architecture, but also the staging of politics as well as the staging of a person through a certain life-style is a field of application. Finally the Aesthetics of Atmosphere helps to understand art, in particular performative art and music."
+            },
+            {
+              "authors": "Tonino Griffero",
+              "title": "Atmospheres and Lived Space ",
+              "abstract": "Through an atmospherological approach, primarily inspired by the Aisthetik (Böhme) and the New Phenomenology (Schmitz), the paper investigates the relationship between atmosphere and lived space, defines what kind of perception the atmospheric one is and examines the space we experience in the lifeworld and to which plane geometry turns out to be completely blind. Sketching briefly the (philosophical) history of lived space (from Heidegger to Schmitz), we assume that atmospheres function as (transmodal) affordances that permeate the lived space, i.e. as ecological invites or meanings that are ontologically rooted in things and quasi-things."
+            },
+            {
+              "authors": "Anton Vydra", 
+              "title": "Intimate and Hostile Places: A Bachelardian Contribution to the Architecture of Lived Spaces",
+              "abstract": "The paper the author considers Bachelard’s approaches to the question of space in his specific phenomenological manner. After a preliminary reflection on Bachelard’s polemics with a Bergsonian underestimation of space in favor of time as duration, the paper discusses on the phenomenological attitude to the constitution of space. The next chapter explains Bachelard’s dynamical model of valorization in which positive and negative values oscillate in relation to our inner and personal experiences. The last chapter concerns the specific phenomenology of hostile spaces in contrast to intimate ones. In agreement with Bachelard, the author claims that intimacy needs experience of the dangerous and of openness, so it is not easy to determine when a specific place is or is not experienced as secure. Majestic, light and spacious buildings may not be experienced as more secure for us than small cabins with an intimate shadow of humanity."
+            },
+            {
+              "authors": "Gunnar Declerck",
+              "title": "Des Conséquences parfois penibles de prendre de la place",
+              "abstract": "The ordinary space is continuously cluttered with bodies and constantly, when we move, we must maneuver, push and shove, walk around, make space. The awareness of having to operate in a limited space, where the places are always already occupied, is sustained by a special mode of appearing of ordinary space: the occupancy field. A phenomenological analysis of the occupancy field demonstrates that: (i) the format in which space presents itself in ordinary perception is marked by our awareness of occupying space with our body and having to squeeze it somewhere each time we move; (ii) bodies and space are co-dependent on an intentional level: ordinary space has, by a sense of vacuum, a mode of appearing which is indissociable from the phenomenological structure of bodies; (iii) the presentation of space is dependent on an anticipation of possibilities: it is because the situation is considered from the opportunities and constraints on the possible set up by our body that a space presents itself to us. We could not experience space if our perceptual apparatus took a mere snapshot of the current states of affairs, if through it we had only access to the state in which the environment is at time t. To experience space means fundamentally to be ahead of one’s time, consider the present not from the future, but from the possible."
+            },
+            {
+              "authors": "Jürgen Hasse", 
+              "title": "Der Leib der Stadt",
+              "abstract": "This article discusses the complex space of the city as an urban milieu of vitality. On the skin of the city, a permanent change of its physical and physiognomic appearance takes place. The alternation of urban “faces” is constituted situationally in the structures and wrinkles of the skin. However, characteristic features of urban quarters do not only appear visually; they become bodily felt and are perceptible as holistic impressions, emanating from atmospheric “vital qualities” (Dürckheim). Therefore, lively urban districts are discussed as “body islands” (Schmitz) in urban space. Seen from this vitalistic perspective, the city is not only a world of rational actors—as it is common ground in the social sciences—but also an unpredictable space of performativity."
+            },
+            {
+              "authors": "Michael Lazarin", 
+              "title": "Phenomenology of Architecture: En (Edge, Connection, Destiny)",
+              "abstract": "Japanese architecture emphasizes transitional spaces between rooms rather than the rooms themselves. If these transitional spaces can be successfully realized, then everything in the room will naturally fall into place with anything else. This also applies to the relation between a building and other buildings stretching out through the whole city, and ultimately to the relation of the city to the natural environment. *“En”* is the Japanese word for such transitional spaces. It means both “edge” and “connection.” It also means destiny. When two people fall in love at first sight or understand each other without having to speak, they are said to have *“en.”* This article provides a phenomenological description and constitutional analysis of two Japanese bridging structures: (1) the *engawa* at the side or back of a house or temple which functions as a veranda for viewing the garden and a hallway to connect the rooms, and (2) the *hashigakari* bridgeway of the Noh theater by which the principal actor gets from the green room to the stage."
+            },
+            {
+              "authors": "Abraham Akkerman", 
+              "title": "Towards a Phenomenology of the Winter-City: Urbanization and Mind Through the Little Ice Age and Its Sequels",
+              "abstract": "Almost simultaneous emergence of Existentialism and Marxism at end of the Little Ice Age had coincided with rapid urbanization and prevalence of mood disorder in northern Europe. This historic configuration is cast against Relph’s notion of place in his critique of urban planning. During the LIA street walking had mitigated mood disorder triggered by sunlight deprivation of indoor spaces while, at the same time, it had also buoyed a *place*. It was the *unplanned* place in the open air—a dilapidated street corner in St. Petersburg or Romanesque streetscape of Old Copenhagen—that offered authenticity, cerebral restitution, and for ardent minds also discernment and acumen. Relph’s critique continues to be of pressing relevance to winter-cities designed for automotive access, and also for the interpretation it offers on the thought and events of the late LIA and following it."
+            },
+            {
+              "authors": "Patricia Limido-Heulot", 
+              "title": "Pour une phénoménologie des paysages",
+              "abstract": "The purpose of this paper is to show that the notion of landscape is a phenomenological typical object and a perfect meeting point of different fields of study, and, in particular, a distinctive topic for a dialogue between phenomenology and human sciences. Starting from an analysis of a text of Erwin Straus, we at- tempt to support the view that into all kinds of landscape—sensory, perceptual, geographical, pictorial or built—we can read various ways of living, dwelling or being in the world, or in other words we can read into them some forms of the original experience. This means that within all landscapes, as embedded in these forms of experience, we can read various ways of living, dwelling or being in the world. So we believe it is possible to constitute and to think a unitary sense of landscape from a phenomenological interpretation of space and human behaviour."
+            },
+            {
+              "authors": "Vincent Blok", 
+              "title": "Being-in-the-World as Being-in-Nature: An Ecological Perspective on *Being and Time*", 
+              "abstract": "Because the status of nature is ambiguous in *Being and Time*, we explore an ecological perspective on Heidegger’s early main work in this article. Our hypothesis is that the affordance theory of James Gibson enables us to a) to understand being-in-the-world as being-in-nature, b) reconnect man and nature and c) understand the twofold sense of nature in Being and Time. After exploring Heidegger’s concept of being-in-the-world and Gibson’s concept of being-in-nature, we confront Heidegger’s and Gibson’s conception of being-in-the-world and being-in-nature. It will become clear that Gibson’s affordance theory enables an ecological reading of *Being and Time*, in which the relational character of being-in-the-world is stressed and the exceptional position of human being-in-the-world has to be rejected. Moreover, it becomes clear that an ecological reading of *Being and Time* enables us to reconnect being-in-the world with being-in-nature (unconcealment), which is rooted in “primordial” nature as its infinite origin (concealment)."
+            },
+            {
+              "authors": "Elsa Ballanfat", 
+              "title": "De la pensée de l’espace chez Heidegger à son expérience en chorégraphie", 
+              "abstract": "A radical thinking of space remains for phenomenology a difficulty, which Heidegger has been concerned with. He developed an existential conception of the spatiality of Dasein in *Being and Time*, which he abandoned in his later philosophy; according to its “turn,” this philosophy proposes a notion of emptiness to describe spatial experience. The paper endorses the view that this notion makes possible a thinking of space in its essence. Pursuing further the reflection concerning the empty space, Maldiney advocates the influence of the East Asian tradition on this issue. However, given that none of these authors considers dance as an art susceptible to disclose space in its essential vacuity, this paper aims to argue that there is a true choreographic empty space."
+            },
+            {
+              "authors": "Dragoș Duicu", 
+              "title": "La proto-structure spatialisante et dynamique: la solution patočkienne au problème de l’espace",
+              "abstract": "The paper analyses Patočka’s phenomenological treatment of the concept of space and of personal spatiality. Patočka’s solution (the pronominal proto-structure of interpellation) is used to assess Heidegger’s approach to the concept of space. Patočka’s phenomenological advancements in regards to his teacher’s developments are considered first through a comparison of their respective concepts of “Earth”, and second, through an evaluation of the reasons of the impossibility of the Heideggerian attempt, in *Sein und Zeit*, to reduce spatiality to temporality."
+            } ] 
+        },
+        {
+          "sectionTitle": "B. Varia",
+          "articles": [
+            {
+              "authors": "Elizabeth A. Behnke", 
+              "title": "Husserl’s Forschungsmanuskripte and the Open Horizon of Phenomenological Practice",
+              "abstract": "Husserl’s legacy of research manuscripts has been revered as a resource containing the deepest insights of his later work and criticized because such manuscripts present work in progress rather than completed “results.” I suggest that these materials are far more than fragments calling for careful interpretation; instead, they belong to a different genre and should be taken up in an attitude of research directed toward working out unsolved problems rather than in an attitude focused on interpreting pregiven texts. After sketching some elements of the research practice this entails, I review some of the ways in which Husserl’s research results have been appropriated and emphasize the need for further phenomenological investigation in the spirit of the “rigorous science” Husserl envisioned."
+            },
+            {
+              "authors": "Paula Lorelle", 
+              "title": "De la matière de l’expérience dans les Recherches Logiques",
+              "abstract": "This article presents itself as an attempt to explain Proust’s expression, “The matter of experience”, from Husserl’s concept of *Materie* in the *Logical Investigations*. This Husserlian concept will enable us to rethink the “matter” of experience, as being both *intrinsically determined* and *intrinsically “relational”*. Husserl uses this concept of Materie in two main senses. In the fifth *Logical Investigation*, it is used in order to define the “content” (*Inhalt*) of the act and this concept will be explained in its own equivocation, as it both means the direction of the act (*Sinn*) and the ideal “signification” which prescribes this very determination (*Bedeutung*). The concept of Materie is also used in the third Logical Investigation to designate the “content” (*Gehalt*) of the object, and will also be explained in its own equivocation, as it both means the individual determination of the object and its essential determination. In the last part of this study, a few of the difficulties which are brought by this double equivocation of Husserl’s concept of *Materie* will be exposed, and a few programmatic solutions for its redefinition as the *unique* “matter” of our experience, will be proposed. This investigation might eventually imply a definition of phenomenology itself, as the very experience of this matter."
+            },
+            {
+              "authors": "Beat Michel", 
+              "title": "Phénoménologie et réalité matérielle",
+              "abstract": "What is the relationship between phenomenology and material reality? What would be the place of phenomenology in a discourse about material reality? This paper tries to clarify the relationship between a type of knowledge and an ontological domain which at first sight seems foreign to it. It also contains the outline of a program for future research. We will show that the relationship between phenomenology and material reality is in some sense double. Hints to this duality may already be found in Husserl’s *Ideen II*. Finally we will question a phenomenology that its author explicitly qualified as *material*: the philosophy of Michel Henry. We will investigate the possibility of a material phenomenology beyond Henry’s work in relation to material reality."
+            },
+            {
+              "authors": "Tracy Colony", 
+              "title": "Bringing Philosophy Back to Life: Nietzsche and  Heidegger’s Early Phenomenology",
+              "abstract": "Most accounts of Heidegger’s relation to Nietzsche have traditionally focused on his famous Nietzsche lecture courses or upon his brief yet highly significant references to Nietzsche in *Being and Time*. However, with recent English translations of key lecture courses from Heidegger’s early Freiburg period it has become clear that during this time another distinct phase of Heidegger’s long and complex relation to Nietzsche can be identified. In this essay, I first chronicle Heidegger’s earliest references to Nietzsche in the period from 1909–1916. I then turn to Heidegger’s early Freiburg lecture courses and demonstrate that the proximity between Nietzsche and Heidegger’s understanding of phenomenology in this period was much greater than has traditionally been said. In conclusion, I argue that one of the most important examples of Heidegger’s appropriation of Nietzsche in this period can be seen in the concept of destruction which played a central role in Heidegger’s account of phenomenological methodology."
+            },
+            {
+              "authors": "Zeynep Direk", 
+              "title": "Phenomenology and Ethics: From Value Theory to an Ethics of Responsibility?",
+              "abstract": "There seems to be a shift in phenomenology in the 20th century from an ethics based on value theory to an ethics based on responsibility. This essay attempts to show the path marks of this transition. It begins with the historical development that led Husserl to address the question of ethical objectivity in terms of value theory, with a focus on Kant, Hegel, and Nietzsche. It then explains Husserl’s phenomenology of ethics as grounded in value theory, and takes into account Heidegger’s objections to it. Finally, it considers Sartre as a transitional figure between value theory and an ethics of responsibility and attempts to show in what sense, if at all, Levinas’ phenomenology of ethics could be an absolute break with a phenomenological ethics based on values."
+            } ]
+        },
+        {
+          "sectionTitle": "C. Book reviews",
+          "entry": [
+            "László Tengelyi, *L’expérience de la singularité*. Paris: Hermann, 2014 (Delia Popa);",
+            "Dylan Trigg, *The Memory of Place. A Phenomenology of the Uncanny*. Athens: Ohio University Press, 2012. (Mădălina Diaconu)",
+            "Helmuth Vetter, *Grundriss Heidegger. Ein Handbuch zu Leben und Werk*. Hamburg: Felix Meiner Verlag, 2014 (Cătălin Cioabă)",
+            "Antonio Cimino, *Phänomenologie und Vollzug. Heideggers performative Philosophie des faktischen Lebens*. Frankfurt am Main: Vittorio Klostermann, 2013 (Alexandru Bejinariu)",
+            "Douglas Low, *Merleau-Ponty in Contemporary Context: Philosophy and Politics in the Twenty-First Century*. New Brunswick: Transaction Publishers, 2013 (Iulian Apostolescu)",
+            "Emmanuel Alloa (Hrsg.), *Erscheinung und Ereignis. Zur Zeitlichkeit des  Bildes*. München: Wilhelm Fink Verlag, 2013 (Christian Ferencz-Flatz)",
+            "Friedrich Schleiermacher, *Vorlesungen zur Hermeneutik und Kritik*,  Kritische Gesamtausgabe (KGA), II. Abteilung, Bd. 4, hrsg. v. Wolfgang Virmond unter Mitwirkung v. Hermann Patsch. Berlin/Boston: De Gruyter, 2012 (Gabriel Cercel)"
+          ]
+        },
+        {
+          "sectionTitle": "IN MEMORIAM",
+          "entry": [
+            "László Tengelyi (1954–2014)"
+          ]
+        }
+      ]
+    },
+    "13": {
+      "title": "On the Proper Use of Phenomenology",
+      "subtitle": " - Paul Ricœur Centenary",
+      "number": "vol. XIII",
+      "year": 2013,
+      "cover": "sp13.png",
+      "issueCoordinator": [
+        "Olivier Abel",
+        "Paul Marinescu"
+      ],
+      "isbnPaperback": "978-973-50-4200-4",
+      "isbnEbook": "978-973-50-4201-1 ",
+      "pages": "456",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 13251002,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 13251032,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 13251063,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 13251092,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 13259635,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 13259678,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+        
+      ]
+    },
+    "12": {
+      "title": "Possibilities of Embodiment",
+      "number": "vol. XII",
+      "year": 2012,
+      "cover": "978-973-50-3739-0.png",
+      "issueCoordinator": [
+        "Elizabeth A. Behnke",
+        "Cristian Ciocan"
+      ],
+      "isbnPaperback": "978-973-50-3738-3",
+      "isbnEbook": "978-973-50-3739-0",
+      "pages": "456",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 9993211,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 9993221,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 9993176,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 9993192,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 9993197,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 9993206,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "11": {
+      "title": "Concepts of Tradition in Phenomenology",
+      "number": "vol. XI",
+      "year": 2011,
+      "cover": "978-973-50-3278-4.png",
+      "issueCoordinator": [
+        "Christian Ferencz-Flatz"
+      ],
+      "isbnPaperback": "978-973-50-3277-7",
+      "isbnEbook": "978-973-50-3278-4",
+      "pages": "404",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 7514226,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 7514228,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 7514215,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 7514221,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 7514234,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 7514235,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "10": {
+      "title": "Phenomenology and Psychology",
+      "number": "vol. X",
+      "year": 2010,
+      "cover": "sp10.3d.png",
+      "issueCoordinator": [
+        "Delia Popa",
+        "Virgil Ciomoș"
+      ],
+      "isbnPaperback": "978-973-50-2820-6",
+      "isbnEbook": "978-973-50-2821-3",
+      "pages": "432",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 5360053,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 5360049,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 5360063,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 5360062,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 5360058,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 5360055,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "9": {
+      "title": "Michel Henry's Radical Phenomenology",
+      "number": "vol. IX",
+      "year": 2009,
+      "cover": "sp9.3d.png",
+      "issueCoordinator": [
+        "Jad Hatem",
+        "Rolf Kühn"
+      ],
+      "isbnPaperback": "978-973-50-2553-3",
+      "isbnEbook": "978-973-50-2553-3",
+      "pages": "550",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 3338221,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 3338168,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 3338334,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 3338327,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 3338266,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 3338228,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "8": {
+      "title": "Phenomenology and Literature",
+      "number": "vol. VIII",
+      "year": 2008,
+      "cover": "sp8.3d.png",
+      "issueCoordinator": [
+        "Delia Popa"
+      ],
+      "isbnPaperback": "978-973-50-2223-5",
+      "isbnEbook": "978-973-50-2223-5",
+      "pages": "480",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 1784897,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 1784891,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 1784932,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 1784929,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 1784936,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 1784942,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "7": {
+      "title": "Jan Patočka and the European Heritage",
+      "number": "vol. VII",
+      "year": 2007,
+      "cover": "sp7.3d.png",
+      "issueCoordinator": [
+        "Ivan Chvatik"
+      ],
+      "isbnPaperback": "978-973-50-1648-7",
+      "isbnEbook": "978-973-50-1648-7",
+      "pages": "568",
+      "size": "17 x 24 cm",
+      "info": "volume edited in collaboration with Jan Patocka Archive in Prague as the Patocka centenary commemorative volume",
+      "order": [
+        {
+          "price": 35,
+          "code": 1784976,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 1784980,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 1784981,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 1784985,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 1784992,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 1785006,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "6": {
+      "title": "A Century with Lévinas",
+      "subtitle": "Notes on the Margins of his Legacy",
+      "number": "vol. VI",
+      "year": 2006,
+      "cover": "sp6.3d.png",
+      "issueCoordinator": [
+        "Adina Bozga",
+        "Attila Szigeti"
+      ],
+      "isbnPaperback": "978-973-50-1416-2",
+      "isbnEbook": "978-973-50-1416-2",
+      "pages": "496",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 1785008,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 1785529,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 1785532,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 1785535,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 1785536,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 1785542,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "5": {
+      "title": "Translating Heidegger's Sein und Zeit",
+      "number": "vol. V",
+      "year": 2005,
+      "cover": "sp5.3d.png",
+      "issueCoordinator": [
+        "Cristian Ciocan"
+      ],
+      "isbnPaperback": "973-50-1142-5",
+      "isbnEbook": "973-50-1142-5",
+      "pages": "410",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 1785544,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 1785545,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 1785547,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 1785551,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 1785556,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 1785559,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "4.34": {
+      "title": "The Ocean of Forgetting",
+      "subtitle": "Alexandru Dragomir: A Romanian Phenomenologist",
+      "number": "vol. IV, nr. 3-4",
+      "year": 2004,
+      "cover": "sp434.3d.png",
+      "issueCoordinator": [
+        "Paul Balogh",
+        "Cristian Ciocan"
+      ],
+      "isbnPaperback": "973-50-0979-X",
+      "isbnEbook": "973-50-0979-X",
+      "pages": "296",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 19,
+          "code": 1785602,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 28,
+          "code": 1785609,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 12,
+          "code": 1785611,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 110,
+          "code": 1785617,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 30,
+          "code": 1785623,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 125,
+          "code": 1785626,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "4.12": {
+      "title": "Varia",
+      "subtitle": "Issues on Brentano, Husserl and Heidegger",
+      "number": "vol. IV, nr. 1-2",
+      "year": 2004,
+      "cover": "sp412.3d.png",
+      "issueCoordinator": [
+        "Cristian Ciocan"
+      ],
+      "isbnPaperback": "",
+      "isbnEbook": "",
+      "pages": "296",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 19,
+          "code": 1785627,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 28,
+          "code": 1785628,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 12,
+          "code": 1785630,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 110,
+          "code": 1785633,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 30,
+          "code": 1785634,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 125,
+          "code": 1785641,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "3.34": {
+      "title": "Maurice Merleau-Ponty: Chiasm and Logos",
+      "number": "vol. III, nr. 3-4",
+      "year": 2003,
+      "cover": "sp334.3d.png",
+      "issueCoordinator": [
+        "Adina Bozga",
+        "Ion Copoeru"
+      ],
+      "isbnPaperback": "973-50-0655-3",
+      "isbnEbook": "973-50-0655-3",
+      "pages": "406",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 22,
+          "code": 1785750,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 31,
+          "code": 1785751,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 15,
+          "code": 1785752,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 140,
+          "code": 1785755,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 35,
+          "code": 1785757,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 155,
+          "code": 1785759,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "3.12": {
+      "title": "The School of Brentano and Husserlian Phenomenology",
+      "number": "vol. III, nr. 1-2",
+      "year": 2003,
+      "cover": "sp312.3d.png",
+      "issueCoordinator": [
+        "Ion Tănăsescu",
+        "Victor Popescu"
+      ],
+      "isbnPaperback": "973-50-0564-6",
+      "isbnEbook": "973-50-0564-6",
+      "pages": "317",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 22,
+          "code": 1785764,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 31,
+          "code": 1785765,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 15,
+          "code": 1785766,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 140,
+          "code": 1785776,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 35,
+          "code": 1785777,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 155,
+          "code": 1785779,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "2.34": {
+      "title": "Varia",
+      "subtitle": "Issues on Husserl, Fink and Schutz",
+      "number": "vol. II, nr. 3-4",
+      "year": 2002,
+      "cover": "sp234.3d.png",
+      "issueCoordinator": [
+        "Cristian Ciocan"
+      ],
+      "isbnPaperback": "",
+      "isbnEbook": "",
+      "pages": "256",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 19,
+          "code": 1785642,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 28,
+          "code": 1785643,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 12,
+          "code": 1785645,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 110,
+          "code": 1785653,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 30,
+          "code": 1785657,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 125,
+          "code": 1785663,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "2.12": {
+      "title": "In Memoriam: Hans-Georg Gadamer",
+      "number": "vol. II, nr. 1-2",
+      "year": 2002,
+      "cover": "sp234.3d.png",
+      "issueCoordinator": [
+        "Cristian Ciocan"
+      ],
+      "isbnPaperback": "",
+      "isbnEbook": "",
+      "pages": "321",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 19,
+          "code": 1785665,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 28,
+          "code": 1785667,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 12,
+          "code": 1785668,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 110,
+          "code": 1785673,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 30,
+          "code": 1785675,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 125,
+          "code": 1785678,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "1.34": {
+      "title": "The Early Heidegger",
+      "number": "vol. I, nr. 3-4",
+      "year": 2001,
+      "cover": "sp134.3d.png",
+      "issueCoordinator": [
+        "Gabriel Cercel"
+      ],
+      "isbnPaperback": "",
+      "isbnEbook": "",
+      "pages": "506",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 35,
+          "code": 1785846,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 50,
+          "code": 1785847,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 20,
+          "code": 1785848,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 200,
+          "code": 1785851,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 50,
+          "code": 1785853,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 230,
+          "code": 1785859,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    },
+    "1.12": {
+      "title": "Heidegger and Theology",
+      "number": "vol. I, nr. 3-4",
+      "year": 2001,
+      "cover": "sp112.3d.png",
+      "issueCoordinator": [
+        "Cristian Ciocan"
+      ],
+      "isbnPaperback": "",
+      "isbnEbook": "",
+      "pages": "440",
+      "size": "17 x 24 cm",
+      "order": [
+        {
+          "price": 19,
+          "code": 1785830,
+          "target": "Paperback (individuals)"
+        },
+        {
+          "price": 28,
+          "code": 1785833,
+          "target": "Paperback (institutions)"
+        },
+        {
+          "price": 12,
+          "code": 1785835,
+          "target": "eBook (individuals)"
+        },
+        {
+          "price": 110,
+          "code": 1785838,
+          "target": "Online access (institutions or libraries)"
+        },
+        {
+          "price": 30,
+          "code": 1785839,
+          "target": "Paperback + eBook (individuals)"
+        },
+        {
+          "price": 125,
+          "code": 1785841,
+          "target": "Paperback + Online Access (institutions or libraries)"
+        },
+        {
+          "price": 7,
+          "code": 13259678,
+          "target": "Single articles (please after purchase send an email to orders@phenomenology.ro)"
+        }
+      ],
+      "contents": [
+
+      ]
+    }
+
+  }
+
+}

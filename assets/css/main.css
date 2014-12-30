@@ -1,0 +1,11 @@
+html {
+  font: normal 16px 'helvetica neue', sans-serif;
+}
+body {
+  width: 100%;
+  margin: 1rem 0;
+}
+
+h1 {
+  color: #333399;
+}
