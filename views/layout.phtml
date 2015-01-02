@@ -4,11 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
     <title>Studia Phaenomenologica</title>
 
     <!-- Bootstrap -->
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Simple Sidebar CSS -->
+    <link href="/assets/css/simple-sidebar.css" rel="stylesheet">
+    <!-- Our custom CSS file -->
     <link href="/assets/css/main.css" rel="stylesheet">
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -17,12 +23,72 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
-    <div class="main"><?php echo $body; ?></div>
-    <div class="footer">&copy; 2010<script>new Date().getFullYear()>2010&&document.write("-"+new Date().getFullYear());</script>, Studia Phaenomenologica.</div>
+
+<body>
+    <div id="wrapper">
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                        home
+                    </a>
+                </li>
+                <li>
+                    <a href="#">all issues</a>
+                </li>
+                <li>
+                    <a href="#">editorial board</a>
+                </li>
+                <li>
+                    <a href="#"call for papers</a>
+                </li>
+                <li>
+                    <a href="#">buy & subscribe</a>
+                </li>
+                <li>
+                    <a href="#">submit articles</a>
+                </li>
+                <li>
+                    <a href="#">contact us</a>
+                </li>
+                <li>
+                    <a href="http://www.pdcnet.org/pdc/bvdb.nsf/journal?openform&journal=pdc_studphaen" target="_blank">online access</a>
+                </li>
+                <li>
+                  <p class="footer">&copy; 2010<script>new Date().getFullYear()>2010&&document.write("-"+new Date().getFullYear());</script>, Studia Phaenomenologica.</p>
+                </li>
+            </ul>
+
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                      <a href="#menu-toggle" class="btn btn-default" id="menu-toggle"><span class="glyphicon glyphicon-star" aria-hidden="true"></span>Toggle Menu</a>
+                      <?php echo $body; ?>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="/assets/js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/assets/js/bootstrap.min.js"></script>
-  </body>
-  </html>
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+</body>
+</html>
