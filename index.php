@@ -61,7 +61,7 @@ map('GET', '/', function ($db, $current, $forthcoming) {
 // });
 
 map(404, function ($code) {
-  echo 'eroare 404: resursa nu a fost gasită!';
+  echo 'eroare 404: resursa nu a fost gasita!';
 });
 
 

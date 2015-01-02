@@ -12,13 +12,16 @@
         "dispatch/dispatch": "~6.1",
         "twbs/bootstrap": "~3.3",
         "components/jquery": "~2.1",
-        "peekmo/jsonpath": "~1.1"
+        "peekmo/jsonpath": "~1.1",
+        "components/font-awesome": "~4.2"
     },
     "scripts": {
       "post-update-cmd": [
         "cp -f vendor/twbs/bootstrap/dist/css/bootstrap.min.css assets/css/",
         "cp -f vendor/twbs/bootstrap/dist/js/bootstrap.min.js assets/js/",
-        "cp -f vendor/components/jquery/jquery.min.js assets/js"
+        "cp -f vendor/components/jquery/jquery.min.js assets/js/",
+        "cp -f vendor/components/font-awesome/css/font-awesome.min.css assets/css/",
+        "cp -f -r vendor/components/font-awesome/fonts/* assets/fonts/"
       ]
     }
 

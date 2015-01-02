@@ -1,10 +1,10 @@
-html {
-  font: normal 16px 'helvetica neue', sans-serif;
-}
 body {
+  font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
   width: 100%;
 }
 
 h1 {
   color: #333399;
+  font-weight: 700;
 }

@@ -12,9 +12,12 @@
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
     <!-- Simple Sidebar CSS -->
     <link href="/assets/css/simple-sidebar.css" rel="stylesheet">
+    <!-- Add Font-Awesome CSS-->
+    <link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Import Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <!-- Our custom CSS file -->
     <link href="/assets/css/main.css" rel="stylesheet">
-
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -30,27 +33,27 @@
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
-                    <a href="#">
+                    <a href="/">
                         home
                     </a>
                 </li>
                 <li>
-                    <a href="#">all issues</a>
+                    <a href="/all">all issues</a>
                 </li>
                 <li>
-                    <a href="#">editorial board</a>
+                    <a href="/editorial-board">editorial board</a>
                 </li>
                 <li>
-                    <a href="#"call for papers</a>
+                    <a href="/call-for-papers"call for papers</a>
                 </li>
                 <li>
-                    <a href="#">buy & subscribe</a>
+                    <a href="/buy-subscribe">buy & subscribe</a>
                 </li>
                 <li>
-                    <a href="#">submit articles</a>
+                    <a href="/how-to-sumit-articles">submit articles</a>
                 </li>
                 <li>
-                    <a href="#">contact us</a>
+                    <a href="/contact">contact us</a>
                 </li>
                 <li>
                     <a href="http://www.pdcnet.org/pdc/bvdb.nsf/journal?openform&journal=pdc_studphaen" target="_blank">online access</a>
@@ -68,7 +71,8 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                      <a href="#menu-toggle" class="btn btn-default" id="menu-toggle"><span class="glyphicon glyphicon-star" aria-hidden="true"></span>Toggle Menu</a>
+                      <!-- Toggle Menu -->
+                      <a href="#menu-toggle" class="btn btn-default" id="menu-toggle"><i class="fa fa-bars"></i></a>
                       <?php echo $body; ?>
                     </div>
                 </div>
