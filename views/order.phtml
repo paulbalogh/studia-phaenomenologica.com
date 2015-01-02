@@ -1,16 +1,12 @@
 <h2>Order</h2>
 <div class="table-responsive">
   <table class="table table-striped table-condensed table-hover">
-    <?php 
-      $html = '';
-      for ($i=0;$i<count($order); $i++){
-        $html .= '<tr>';
-          $html .= '<td>'.$order[$i]['target'].'</td>';
-          $html .= '<td class="text-right" style="min-width: 4em;">'.$order[$i]['price'].' €</td>';
-          $html .= '<td><a href="https://secure.epayment.ro/order/cart.php?PRODS='.$order[$i]['code'].'&QTY=1&LANG=en&LANG=en" role="button" class="btn btn-warning btn-xs" target="_blank"> ADD TO CART</a></td>';
-        $html .= '</tr>';
-        }
-      echo $html; 
-    ?>
+    <?php foreach ($order as $line): ?>
+        <tr>
+          <td><?php echo $line['target']; ?></td>
+          <td class="text-right" style="min-width: 4em;"><?php echo $line['price']; ?> €</td>
+          <td><a href="https://secure.epayment.ro/order/cart.php?PRODS=<?php echo $line['code']; ?>&QTY=1&LANG=en&LANG=en" role="button" class="btn btn-warning btn-xs" target="_blank"> ADD TO CART</a></td>
+        </tr>
+    <?php endforeach; ?>
   </table>
 </div>

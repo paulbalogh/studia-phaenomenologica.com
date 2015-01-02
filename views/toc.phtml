@@ -1,3 +1,48 @@
 <h2>Table of contents</h2>
-<div class="toc-sections"><?php echo $sections; ?></div>
-<div class="toc-entries"><?php echo $entries; ?></div>
+<div class="toc-sections">
+  <?php foreach ($contents as $section) : ?>
+
+    <h3><?php echo $section['sectionTitle']; ?></h3>
+
+    <?php if (isset($section['articles'])): ?>
+      <div "section-articles">
+        <?php foreach ($section['articles'] as $article): ?>
+          <?php if(isset($article['abstract'])): ?>
+          <!-- article with abstract -->
+          <a data-toggle="collapse" href="#<?php echo hash('md5', $article['title']); ?>" aria-expanded="false" aria-controls="<?php echo hash('md5', $article['title']); ?>">
+            <p class="article-title">
+              <?php echo $article['authors']; ?> - 
+              <em>
+                <?php echo $article['title']; ?>
+              </em>
+            </p>
+          </a>
+          <div class="collapse" id="<?php echo hash('md5', $article['title']); ?>">
+            <small class="abstract">
+              <?php echo $Parsedown->text($article['abstract']); ?>
+            </small>
+          </div>
+
+          <!-- article without abstract -->
+          <?php else : ?>
+          <p class="article-title">
+            <?php echo $article['authors'];?> - 
+            <em>
+              <?php echo $article['title'];?>
+            </em>
+          </p>
+          <?php endif; ?>
+        <?php endforeach; ?>
+      </div>
+    <?php endif; ?>
+
+    <?php if (isset($section['entry'])): ?>
+      <div "section-articles">
+        <?php foreach ($section['entry'] as $entry): ?>
+          <p class="abstract text-small"><?php echo $Parsedown->text($entry); ?></p>
+        <?php endforeach; ?>
+      </div>
+    <?php endif; ?>
+
+  <?php endforeach; ?>
+</div>

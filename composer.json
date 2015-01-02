@@ -1,6 +1,6 @@
 {
-    "name": "paul/studia2",
-    "description": "code for studia-phaenomenologica.com",
+    "name": "phenomenology/studia-phaenomenologica",
+    "description": "code for studia-phaenomenologica.com, version 2014-2015",
     "authors": [
         {
             "name": "Paul Balogh",
@@ -9,6 +9,17 @@
     ],
     "require": {
         "erusev/parsedown": "~1.1",
-        "dispatch/dispatch": "~6.1"
+        "dispatch/dispatch": "~6.1",
+        "twbs/bootstrap": "~3.3",
+        "components/jquery": "~2.1",
+        "peekmo/jsonpath": "~1.1"
+    },
+    "scripts": {
+      "post-update-cmd": [
+        "cp -f vendor/twbs/bootstrap/dist/css/bootstrap.min.css assets/css/",
+        "cp -f vendor/twbs/bootstrap/dist/js/bootstrap.min.js assets/js/",
+        "cp -f vendor/components/jquery/jquery.min.js assets/js"
+      ]
     }
+
 }

@@ -1,12 +1,23 @@
 <?php
 require 'vendor/autoload.php';
+use Peekmo\JsonPath\JsonStore; // ask for JsonStore($json) object
 
 error_reporting(E_ALL|E_STRICT);
 
-map('GET', '/', function ($db) {
-  $latest = $db['issue'][14];
+# load contents of config.ini
+config(parse_ini_file(__DIR__.'/config.ini'));
+$dbPath = config('dbpath');
+$current = config('current');
+$forthcoming = config('forthcoming');
+
+# read studia data as json from file
+$db = json_decode(file_get_contents($dbPath), true) or die('cannot find json source');
+
+map('GET', '/', function ($db, $current, $forthcoming) {
+  $latest = $db['issue'][$current];
   $journal = $db['journal'];
   $contents = $latest['contents'];
+  $Parsedown = new Parsedown();
 
   function showCoordinators($issue){
     $html = '';
@@ -17,42 +28,9 @@ map('GET', '/', function ($db) {
     return $html;
   }
 
-  function showContents($contents){
-    $toc = '';
-    if (count($contents) == 0) {} else {
-      $sections = '';
-      foreach ($contents as $section) {
-        if(isset($section['articles'])){
-          $articles = '';
-          foreach ($section['articles'] as $article) {
-            if(isset($article['abstract'])){
-              $article['hashID'] = hash('md5', $article['title']); //generate hash ID based on title
-              $Parsedown = new Parsedown();
-              $article['abstract'] = $Parsedown->text($article['abstract']);
-            }
-            $articles .= phtml('toc-article', ['article' => $article]);
-          }
-        $sections .= phtml('toc-section', ['sectionTitle' => $section['sectionTitle'], 'articles' => $articles]);
-        }
-
-        if(isset($section['entry'])){
-          $entries = '';
-          foreach ($section['entry'] as $entry) {
-            $Parsedown = new Parsedown();
-            $entry = $Parsedown->text($entry);
-            $entries .= phtml('toc-entry', ['entry' => $entry]);
-          }
-        $sections .= phtml('toc-section',['sectionTitle' => $section['sectionTitle'], 'entries' => $entries]);
-        }
-        
-      }
-    $toc = phtml('toc', ['sections' => $sections, 'entries' => $entries]);
-    }
-  return $toc;
-  }
-  $toc = showContents($contents);
-  $order = phtml('order', ['order' => $latest['order']]);
-  print phtml('index', ['issue' => $latest, 'journal' => $journal, 'order' => $order, 'toc' => $toc]);
+  $toc = phtml('toc', ['contents' => $latest['contents'], 'Parsedown' => $Parsedown], false);
+  $order = phtml('order', ['order' => $latest['order']], false);
+  print phtml('home', ['issue' => $latest, 'journal' => $journal, 'order' => $order, 'toc' => $toc], 'layout');
 });
 
 // # show a post
@@ -87,15 +65,5 @@ map(404, function ($code) {
 });
 
 
-# load contents of config.ini
-config(parse_ini_file(__DIR__.'/config.ini'));
-$dbPath = config('dbpath');
-
-# prep the db
-// !file_exists($db = __DIR__.'/posts.txt') && touch($db);
-// !file_exists($db = __DIR__.'/assets/js/studia.json') && touch($db);
-$db = json_decode(file_get_contents($dbPath), true);
-
-
 # pass along our data store
-dispatch($db);
+dispatch($db, $current, $forthcoming);
