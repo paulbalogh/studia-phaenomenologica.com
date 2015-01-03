@@ -12,7 +12,8 @@
         "dispatch/dispatch": "~6.1",
         "twbs/bootstrap": "~3.3",
         "components/jquery": "~2.1",
-        "fortawesome/font-awesome": "~4.2"
+        "fortawesome/font-awesome": "~4.2",
+        "dmelo/pchart": "~2.1"
     },
     "scripts": {
       "post-update-cmd": [

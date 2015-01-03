@@ -2,6 +2,7 @@
 require 'vendor/autoload.php';
 $Parsedown = new Parsedown();
 error_reporting(E_ALL|E_STRICT);
+// $myData = new pData();
 
 # load contents of config.ini
 config(parse_ini_file(__DIR__.'/config.ini'));
@@ -51,7 +52,7 @@ map('GET', '/editorial-board', function($db, $current, $forthcoming){
 });
 
 map('GET', '/call-for-papers', function($db, $current, $forthcoming){
-  print phtml('placeholder', ['content' => 'call-for-papers']);
+  print phtml('call-for-papers');
 });
 
 map('GET', '/buy-subscribe', function($db, $current, $forthcoming){
