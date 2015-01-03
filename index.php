@@ -1,6 +1,5 @@
 <?php
 require 'vendor/autoload.php';
-// $stylus = new Stylus();
 $Parsedown = new Parsedown();
 error_reporting(E_ALL|E_STRICT);
 
