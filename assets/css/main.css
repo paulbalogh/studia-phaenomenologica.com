@@ -1,10 +1,65 @@
+/*
+  red #cf202e;
+  black #232121;
+  orange #f78822;
+  yellow #f6db35; #f1c40f
+  green #6dc067;
+  blue #4185be;
+  mauve #8f499c;
+*/
+
+
 body {
   font-size: 16px;
   font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
   width: 100%;
 }
 
 h1 {
   color: #333399;
   font-weight: 700;
+}
+
+.thin {
+  font-weight: 300;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+.heavy {
+  font-weight: 700;
+}
+
+#sidebar-wrapper {
+  color: white;
+  background: #232121;
+}
+.sidebar-nav li a {
+  color: #fff;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.sidebar-nav > li:nth-child(2){
+  background: #cf202e;
+}
+.sidebar-nav > li:nth-child(3){
+  background: #f78822;
+}
+.sidebar-nav > li:nth-child(4){
+  background: #f1c40f;
+}
+.sidebar-nav > li:nth-child(5){
+  background: #6dc067;
+}
+.sidebar-nav > li:nth-child(6){
+  background: #4185be;
+}
+.sidebar-nav > li:nth-child(7){
+  background: #8f499c;
+}
+.sidebar-nav > li:nth-child(8){
+  background: #444;
 }

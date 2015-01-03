@@ -1,7 +1,7 @@
 <?php
 require 'vendor/autoload.php';
-use Peekmo\JsonPath\JsonStore; // ask for JsonStore($json) object
-
+// $stylus = new Stylus();
+$Parsedown = new Parsedown();
 error_reporting(E_ALL|E_STRICT);
 
 # load contents of config.ini
@@ -13,11 +13,25 @@ $forthcoming = config('forthcoming');
 # read studia data as json from file
 $db = json_decode(file_get_contents($dbPath), true) or die('cannot find json source');
 
-map('GET', '/', function ($db, $current, $forthcoming) {
-  $latest = $db['issue'][$current];
+map(['/', '/index','/index.php'], function ($db, $current, $forthcoming) {
+
+  print phtml('home');
+});
+
+map(['/all', '/all-issues', '/issues'], function($db, $current, $forthcoming){
+
+  foreach ($db['issue'] as $id => $issue) {
+    $issues[$id] = $issue['info'];
+  }
+
+  print phtml('all-issues', ['issues' => $issues]);
+});
+
+map(['/issues/{id}'], function ($params, $db, $current, $forthcoming, $Parsedown) {
+  $issue = $db['issue'][$params['id']];
+  // $latest = $db['issue'][$current];
   $journal = $db['journal'];
-  $contents = $latest['contents'];
-  $Parsedown = new Parsedown();
+  $contents = $issue['contents'];
 
   function showCoordinators($issue){
     $html = '';
@@ -28,11 +42,30 @@ map('GET', '/', function ($db, $current, $forthcoming) {
     return $html;
   }
 
-  $toc = phtml('toc', ['contents' => $latest['contents'], 'Parsedown' => $Parsedown], false);
-  $order = phtml('order', ['order' => $latest['order']], false);
-  print phtml('home', ['issue' => $latest, 'journal' => $journal, 'order' => $order, 'toc' => $toc], 'layout');
+  $toc = phtml('toc', ['contents' => $issue['contents'], 'Parsedown' => $Parsedown], false);
+  $order = phtml('order', ['order' => $issue['order']], false);
+  print phtml('issue', ['issue' => $issue['info'], 'journal' => $journal, 'order' => $order, 'toc' => $toc], 'layout');
 });
 
+map('GET', '/editorial-board', function($db, $current, $forthcoming){
+  print phtml('editorial-board');
+});
+
+map('GET', '/call-for-papers', function($db, $current, $forthcoming){
+  print phtml('placeholder', ['content' => 'call-for-papers']);
+});
+
+map('GET', '/buy-subscribe', function($db, $current, $forthcoming){
+  print phtml('placeholder', ['content' => 'buy-subscribe']);
+});
+
+map('GET', '/how-to-sumit-articles', function($db, $current, $forthcoming){
+  print phtml('placeholder', ['content' => 'how-to-sumit-articles']);
+});
+
+map('GET', '/contact', function($db, $current, $forthcoming){
+  print phtml('placeholder', ['content' => 'contact']);
+});
 // # show a post
 // map('GET', '/posts/{id}', function ($args, $db) {
 //   foreach (file($db) as $post) {
@@ -66,4 +99,4 @@ map(404, function ($code) {
 
 
 # pass along our data store
-dispatch($db, $current, $forthcoming);
+dispatch($db, $current, $forthcoming, $Parsedown);

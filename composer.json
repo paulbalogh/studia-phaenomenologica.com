@@ -12,8 +12,8 @@
         "dispatch/dispatch": "~6.1",
         "twbs/bootstrap": "~3.3",
         "components/jquery": "~2.1",
-        "peekmo/jsonpath": "~1.1",
-        "fortawesome/font-awesome": "~4.2"
+        "fortawesome/font-awesome": "~4.2",
+        "neemzy/stylus": "dev-master"
     },
     "scripts": {
       "post-update-cmd": [

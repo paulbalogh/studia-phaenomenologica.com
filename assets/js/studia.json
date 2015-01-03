@@ -18,18 +18,20 @@
   },
   "issue": {
     "14": {
-      "title": "Place, Environment, Atmosphere",
-      "number": "vol. XIV",
-      "year": 2014,
-      "cover": "sp14.png",
-      "issueCoordinator": [
-        "Mădălina Diaconu",
-        "Ion Copoeru"
-      ],
-      "isbnPaperback": "978-973-50-4669-9",
-      "isbnEbook": "978-973-50-4670-5",
-      "pages": "424",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "Place, Environment, Atmosphere",
+        "number": "vol. XIV",
+        "year": 2014,
+        "cover": "sp14.png",
+        "issueCoordinator": [
+          "Mădălina Diaconu",
+          "Ion Copoeru"
+        ],
+        "isbnPaperback": "978-973-50-4669-9",
+        "isbnEbook": "978-973-50-4670-5",
+        "pages": "424",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -186,19 +188,21 @@
       ]
     },
     "13": {
-      "title": "On the Proper Use of Phenomenology",
-      "subtitle": " - Paul Ricœur Centenary",
-      "number": "vol. XIII",
-      "year": 2013,
-      "cover": "sp13.png",
-      "issueCoordinator": [
-        "Olivier Abel",
-        "Paul Marinescu"
-      ],
-      "isbnPaperback": "978-973-50-4200-4",
-      "isbnEbook": "978-973-50-4201-1 ",
-      "pages": "456",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "On the Proper Use of Phenomenology",
+        "subtitle": " - Paul Ricœur Centenary",
+        "number": "vol. XIII",
+        "year": 2013,
+        "cover": "sp13.png",
+        "issueCoordinator": [
+          "Olivier Abel",
+          "Paul Marinescu"
+        ],
+        "isbnPaperback": "978-973-50-4200-4",
+        "isbnEbook": "978-973-50-4201-1 ",
+        "pages": "456",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -241,18 +245,20 @@
       ]
     },
     "12": {
-      "title": "Possibilities of Embodiment",
-      "number": "vol. XII",
-      "year": 2012,
-      "cover": "978-973-50-3739-0.png",
-      "issueCoordinator": [
-        "Elizabeth A. Behnke",
-        "Cristian Ciocan"
-      ],
-      "isbnPaperback": "978-973-50-3738-3",
-      "isbnEbook": "978-973-50-3739-0",
-      "pages": "456",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "Possibilities of Embodiment",
+        "number": "vol. XII",
+        "year": 2012,
+        "cover": "978-973-50-3739-0.png",
+        "issueCoordinator": [
+          "Elizabeth A. Behnke",
+          "Cristian Ciocan"
+        ],
+        "isbnPaperback": "978-973-50-3738-3",
+        "isbnEbook": "978-973-50-3739-0",
+        "pages": "456",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -295,17 +301,19 @@
       ]
     },
     "11": {
-      "title": "Concepts of Tradition in Phenomenology",
-      "number": "vol. XI",
-      "year": 2011,
-      "cover": "978-973-50-3278-4.png",
-      "issueCoordinator": [
-        "Christian Ferencz-Flatz"
-      ],
-      "isbnPaperback": "978-973-50-3277-7",
-      "isbnEbook": "978-973-50-3278-4",
-      "pages": "404",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "Concepts of Tradition in Phenomenology",
+        "number": "vol. XI",
+        "year": 2011,
+        "cover": "978-973-50-3278-4.png",
+        "issueCoordinator": [
+          "Christian Ferencz-Flatz"
+        ],
+        "isbnPaperback": "978-973-50-3277-7",
+        "isbnEbook": "978-973-50-3278-4",
+        "pages": "404",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -348,18 +356,20 @@
       ]
     },
     "10": {
-      "title": "Phenomenology and Psychology",
-      "number": "vol. X",
-      "year": 2010,
-      "cover": "sp10.3d.png",
-      "issueCoordinator": [
-        "Delia Popa",
-        "Virgil Ciomoș"
-      ],
-      "isbnPaperback": "978-973-50-2820-6",
-      "isbnEbook": "978-973-50-2821-3",
-      "pages": "432",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "Phenomenology and Psychology",
+        "number": "vol. X",
+        "year": 2010,
+        "cover": "sp10.3d.png",
+        "issueCoordinator": [
+          "Delia Popa",
+          "Virgil Ciomoș"
+        ],
+        "isbnPaperback": "978-973-50-2820-6",
+        "isbnEbook": "978-973-50-2821-3",
+        "pages": "432",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -402,18 +412,20 @@
       ]
     },
     "9": {
-      "title": "Michel Henry's Radical Phenomenology",
-      "number": "vol. IX",
-      "year": 2009,
-      "cover": "sp9.3d.png",
-      "issueCoordinator": [
-        "Jad Hatem",
-        "Rolf Kühn"
-      ],
-      "isbnPaperback": "978-973-50-2553-3",
-      "isbnEbook": "978-973-50-2553-3",
-      "pages": "550",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "Michel Henry's Radical Phenomenology",
+        "number": "vol. IX",
+        "year": 2009,
+        "cover": "sp9.3d.png",
+        "issueCoordinator": [
+          "Jad Hatem",
+          "Rolf Kühn"
+        ],
+        "isbnPaperback": "978-973-50-2553-3",
+        "isbnEbook": "978-973-50-2553-3",
+        "pages": "550",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -456,17 +468,19 @@
       ]
     },
     "8": {
-      "title": "Phenomenology and Literature",
-      "number": "vol. VIII",
-      "year": 2008,
-      "cover": "sp8.3d.png",
-      "issueCoordinator": [
-        "Delia Popa"
-      ],
-      "isbnPaperback": "978-973-50-2223-5",
-      "isbnEbook": "978-973-50-2223-5",
-      "pages": "480",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "Phenomenology and Literature",
+        "number": "vol. VIII",
+        "year": 2008,
+        "cover": "sp8.3d.png",
+        "issueCoordinator": [
+          "Delia Popa"
+        ],
+        "isbnPaperback": "978-973-50-2223-5",
+        "isbnEbook": "978-973-50-2223-5",
+        "pages": "480",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -509,18 +523,20 @@
       ]
     },
     "7": {
-      "title": "Jan Patočka and the European Heritage",
-      "number": "vol. VII",
-      "year": 2007,
-      "cover": "sp7.3d.png",
-      "issueCoordinator": [
-        "Ivan Chvatik"
-      ],
-      "isbnPaperback": "978-973-50-1648-7",
-      "isbnEbook": "978-973-50-1648-7",
-      "pages": "568",
-      "size": "17 x 24 cm",
-      "info": "volume edited in collaboration with Jan Patocka Archive in Prague as the Patocka centenary commemorative volume",
+      "info": {
+        "title": "Jan Patočka and the European Heritage",
+        "number": "vol. VII",
+        "year": 2007,
+        "cover": "sp7.3d.png",
+        "issueCoordinator": [
+          "Ivan Chvatik"
+        ],
+        "isbnPaperback": "978-973-50-1648-7",
+        "isbnEbook": "978-973-50-1648-7",
+        "pages": "568",
+        "size": "17 x 24 cm",
+        "info": "volume edited in collaboration with Jan Patocka Archive in Prague as the Patocka centenary commemorative volume"
+      },
       "order": [
         {
           "price": 35,
@@ -563,19 +579,21 @@
       ]
     },
     "6": {
-      "title": "A Century with Lévinas",
-      "subtitle": "Notes on the Margins of his Legacy",
-      "number": "vol. VI",
-      "year": 2006,
-      "cover": "sp6.3d.png",
-      "issueCoordinator": [
-        "Adina Bozga",
-        "Attila Szigeti"
-      ],
-      "isbnPaperback": "978-973-50-1416-2",
-      "isbnEbook": "978-973-50-1416-2",
-      "pages": "496",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "A Century with Lévinas",
+        "subtitle": "Notes on the Margins of his Legacy",
+        "number": "vol. VI",
+        "year": 2006,
+        "cover": "sp6.3d.png",
+        "issueCoordinator": [
+          "Adina Bozga",
+          "Attila Szigeti"
+        ],
+        "isbnPaperback": "978-973-50-1416-2",
+        "isbnEbook": "978-973-50-1416-2",
+        "pages": "496",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -618,17 +636,19 @@
       ]
     },
     "5": {
-      "title": "Translating Heidegger's Sein und Zeit",
-      "number": "vol. V",
-      "year": 2005,
-      "cover": "sp5.3d.png",
-      "issueCoordinator": [
-        "Cristian Ciocan"
-      ],
-      "isbnPaperback": "973-50-1142-5",
-      "isbnEbook": "973-50-1142-5",
-      "pages": "410",
-      "size": "17 x 24 cm",
+      "info": {
+        "title": "Translating Heidegger's Sein und Zeit",
+        "number": "vol. V",
+        "year": 2005,
+        "cover": "sp5.3d.png",
+        "issueCoordinator": [
+          "Cristian Ciocan"
+        ],
+        "isbnPaperback": "973-50-1142-5",
+        "isbnEbook": "973-50-1142-5",
+        "pages": "410",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -670,20 +690,22 @@
 
       ]
     },
-    "4.34": {
-      "title": "The Ocean of Forgetting",
-      "subtitle": "Alexandru Dragomir: A Romanian Phenomenologist",
-      "number": "vol. IV, nr. 3-4",
-      "year": 2004,
-      "cover": "sp434.3d.png",
-      "issueCoordinator": [
-        "Paul Balogh",
-        "Cristian Ciocan"
-      ],
-      "isbnPaperback": "973-50-0979-X",
-      "isbnEbook": "973-50-0979-X",
-      "pages": "296",
-      "size": "17 x 24 cm",
+    "434": {
+      "info": {
+        "title": "The Ocean of Forgetting",
+        "subtitle": "Alexandru Dragomir: A Romanian Phenomenologist",
+        "number": "vol. IV, nr. 3-4",
+        "year": 2004,
+        "cover": "sp434.3d.png",
+        "issueCoordinator": [
+          "Paul Balogh",
+          "Cristian Ciocan"
+        ],
+        "isbnPaperback": "973-50-0979-X",
+        "isbnEbook": "973-50-0979-X",
+        "pages": "296",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 19,
@@ -725,19 +747,21 @@
 
       ]
     },
-    "4.12": {
-      "title": "Varia",
-      "subtitle": "Issues on Brentano, Husserl and Heidegger",
-      "number": "vol. IV, nr. 1-2",
-      "year": 2004,
-      "cover": "sp412.3d.png",
-      "issueCoordinator": [
-        "Cristian Ciocan"
-      ],
-      "isbnPaperback": "",
-      "isbnEbook": "",
-      "pages": "296",
-      "size": "17 x 24 cm",
+    "412": {
+      "info": {
+        "title": "Varia",
+        "subtitle": "Issues on Brentano, Husserl and Heidegger",
+        "number": "vol. IV, nr. 1-2",
+        "year": 2004,
+        "cover": "sp412.3d.png",
+        "issueCoordinator": [
+          "Cristian Ciocan"
+        ],
+        "isbnPaperback": "",
+        "isbnEbook": "",
+        "pages": "296",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 19,
@@ -779,19 +803,21 @@
 
       ]
     },
-    "3.34": {
-      "title": "Maurice Merleau-Ponty: Chiasm and Logos",
-      "number": "vol. III, nr. 3-4",
-      "year": 2003,
-      "cover": "sp334.3d.png",
-      "issueCoordinator": [
-        "Adina Bozga",
-        "Ion Copoeru"
-      ],
-      "isbnPaperback": "973-50-0655-3",
-      "isbnEbook": "973-50-0655-3",
-      "pages": "406",
-      "size": "17 x 24 cm",
+    "334": {
+      "info": {
+        "title": "Maurice Merleau-Ponty: Chiasm and Logos",
+        "number": "vol. III, nr. 3-4",
+        "year": 2003,
+        "cover": "sp334.3d.png",
+        "issueCoordinator": [
+          "Adina Bozga",
+          "Ion Copoeru"
+        ],
+        "isbnPaperback": "973-50-0655-3",
+        "isbnEbook": "973-50-0655-3",
+        "pages": "406",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 22,
@@ -833,19 +859,21 @@
 
       ]
     },
-    "3.12": {
-      "title": "The School of Brentano and Husserlian Phenomenology",
-      "number": "vol. III, nr. 1-2",
-      "year": 2003,
-      "cover": "sp312.3d.png",
-      "issueCoordinator": [
-        "Ion Tănăsescu",
-        "Victor Popescu"
-      ],
-      "isbnPaperback": "973-50-0564-6",
-      "isbnEbook": "973-50-0564-6",
-      "pages": "317",
-      "size": "17 x 24 cm",
+    "312": {
+      "info": {
+        "title": "The School of Brentano and Husserlian Phenomenology",
+        "number": "vol. III, nr. 1-2",
+        "year": 2003,
+        "cover": "sp312.3d.png",
+        "issueCoordinator": [
+          "Ion Tănăsescu",
+          "Victor Popescu"
+        ],
+        "isbnPaperback": "973-50-0564-6",
+        "isbnEbook": "973-50-0564-6",
+        "pages": "317",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 22,
@@ -887,19 +915,21 @@
 
       ]
     },
-    "2.34": {
-      "title": "Varia",
-      "subtitle": "Issues on Husserl, Fink and Schutz",
-      "number": "vol. II, nr. 3-4",
-      "year": 2002,
-      "cover": "sp234.3d.png",
-      "issueCoordinator": [
-        "Cristian Ciocan"
-      ],
-      "isbnPaperback": "",
-      "isbnEbook": "",
-      "pages": "256",
-      "size": "17 x 24 cm",
+    "234": {
+      "info": {
+        "title": "Varia",
+        "subtitle": "Issues on Husserl, Fink and Schutz",
+        "number": "vol. II, nr. 3-4",
+        "year": 2002,
+        "cover": "sp234.3d.png",
+        "issueCoordinator": [
+          "Cristian Ciocan"
+        ],
+        "isbnPaperback": "",
+        "isbnEbook": "",
+        "pages": "256",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 19,
@@ -941,18 +971,20 @@
 
       ]
     },
-    "2.12": {
-      "title": "In Memoriam: Hans-Georg Gadamer",
-      "number": "vol. II, nr. 1-2",
-      "year": 2002,
-      "cover": "sp234.3d.png",
-      "issueCoordinator": [
-        "Cristian Ciocan"
-      ],
-      "isbnPaperback": "",
-      "isbnEbook": "",
-      "pages": "321",
-      "size": "17 x 24 cm",
+    "212": {
+      "info": {
+        "title": "In Memoriam: Hans-Georg Gadamer",
+        "number": "vol. II, nr. 1-2",
+        "year": 2002,
+        "cover": "sp234.3d.png",
+        "issueCoordinator": [
+          "Cristian Ciocan"
+        ],
+        "isbnPaperback": "",
+        "isbnEbook": "",
+        "pages": "321",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 19,
@@ -994,18 +1026,20 @@
 
       ]
     },
-    "1.34": {
-      "title": "The Early Heidegger",
-      "number": "vol. I, nr. 3-4",
-      "year": 2001,
-      "cover": "sp134.3d.png",
-      "issueCoordinator": [
-        "Gabriel Cercel"
-      ],
-      "isbnPaperback": "",
-      "isbnEbook": "",
-      "pages": "506",
-      "size": "17 x 24 cm",
+    "134": {
+      "info": {
+        "title": "The Early Heidegger",
+        "number": "vol. I, nr. 3-4",
+        "year": 2001,
+        "cover": "sp134.3d.png",
+        "issueCoordinator": [
+          "Gabriel Cercel"
+        ],
+        "isbnPaperback": "",
+        "isbnEbook": "",
+        "pages": "506",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 35,
@@ -1047,18 +1081,20 @@
 
       ]
     },
-    "1.12": {
-      "title": "Heidegger and Theology",
-      "number": "vol. I, nr. 3-4",
-      "year": 2001,
-      "cover": "sp112.3d.png",
-      "issueCoordinator": [
-        "Cristian Ciocan"
-      ],
-      "isbnPaperback": "",
-      "isbnEbook": "",
-      "pages": "440",
-      "size": "17 x 24 cm",
+    "112": {
+      "info": {
+        "title": "Heidegger and Theology",
+        "number": "vol. I, nr. 3-4",
+        "year": 2001,
+        "cover": "sp112.3d.png",
+        "issueCoordinator": [
+          "Cristian Ciocan"
+        ],
+        "isbnPaperback": "",
+        "isbnEbook": "",
+        "pages": "440",
+        "size": "17 x 24 cm"
+      },
       "order": [
         {
           "price": 19,
