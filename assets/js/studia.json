@@ -30,7 +30,8 @@
         "isbnPaperback": "978-973-50-4669-9",
         "isbnEbook": "978-973-50-4670-5",
         "pages": "424",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "place-environment-atmosphere-studia-14-2014"
       },
       "order": [
         {
@@ -158,12 +159,12 @@
             },
             {
               "authors": "Tracy Colony", 
-              "title": "Bringing Philosophy Back to Life: Nietzsche and  Heidegger’s Early Phenomenology",
+              "title": "Bringing Philosophy Back to Life: Nietzsche and Heidegger’s Early Phenomenology",
               "abstract": "Most accounts of Heidegger’s relation to Nietzsche have traditionally focused on his famous Nietzsche lecture courses or upon his brief yet highly significant references to Nietzsche in *Being and Time*. However, with recent English translations of key lecture courses from Heidegger’s early Freiburg period it has become clear that during this time another distinct phase of Heidegger’s long and complex relation to Nietzsche can be identified. In this essay, I first chronicle Heidegger’s earliest references to Nietzsche in the period from 1909–1916. I then turn to Heidegger’s early Freiburg lecture courses and demonstrate that the proximity between Nietzsche and Heidegger’s understanding of phenomenology in this period was much greater than has traditionally been said. In conclusion, I argue that one of the most important examples of Heidegger’s appropriation of Nietzsche in this period can be seen in the concept of destruction which played a central role in Heidegger’s account of phenomenological methodology."
             },
             {
               "authors": "Zeynep Direk", 
-              "title": "Phenomenology and Ethics: From Value Theory to an Ethics of Responsibility?",
+              "title": "Phenomenology and Ethics: From Value Theory to an Ethics of Responsibility?",
               "abstract": "There seems to be a shift in phenomenology in the 20th century from an ethics based on value theory to an ethics based on responsibility. This essay attempts to show the path marks of this transition. It begins with the historical development that led Husserl to address the question of ethical objectivity in terms of value theory, with a focus on Kant, Hegel, and Nietzsche. It then explains Husserl’s phenomenology of ethics as grounded in value theory, and takes into account Heidegger’s objections to it. Finally, it considers Sartre as a transitional figure between value theory and an ethics of responsibility and attempts to show in what sense, if at all, Levinas’ phenomenology of ethics could be an absolute break with a phenomenological ethics based on values."
             } ]
         },
@@ -174,9 +175,9 @@
             "Dylan Trigg, *The Memory of Place. A Phenomenology of the Uncanny*. Athens: Ohio University Press, 2012. (Mădălina Diaconu)",
             "Helmuth Vetter, *Grundriss Heidegger. Ein Handbuch zu Leben und Werk*. Hamburg: Felix Meiner Verlag, 2014 (Cătălin Cioabă)",
             "Antonio Cimino, *Phänomenologie und Vollzug. Heideggers performative Philosophie des faktischen Lebens*. Frankfurt am Main: Vittorio Klostermann, 2013 (Alexandru Bejinariu)",
-            "Douglas Low, *Merleau-Ponty in Contemporary Context: Philosophy and Politics in the Twenty-First Century*. New Brunswick: Transaction Publishers, 2013 (Iulian Apostolescu)",
-            "Emmanuel Alloa (Hrsg.), *Erscheinung und Ereignis. Zur Zeitlichkeit des  Bildes*. München: Wilhelm Fink Verlag, 2013 (Christian Ferencz-Flatz)",
-            "Friedrich Schleiermacher, *Vorlesungen zur Hermeneutik und Kritik*,  Kritische Gesamtausgabe (KGA), II. Abteilung, Bd. 4, hrsg. v. Wolfgang Virmond unter Mitwirkung v. Hermann Patsch. Berlin/Boston: De Gruyter, 2012 (Gabriel Cercel)"
+            "Douglas Low, *Merleau-Ponty in Contemporary Context: Philosophy and Politics in the Twenty-First Century*. New Brunswick: Transaction Publishers, 2013 (Iulian Apostolescu)",
+            "Emmanuel Alloa (Hrsg.), *Erscheinung und Ereignis. Zur Zeitlichkeit des Bildes*. München: Wilhelm Fink Verlag, 2013 (Christian Ferencz-Flatz)",
+            "Friedrich Schleiermacher, *Vorlesungen zur Hermeneutik und Kritik*,  Kritische Gesamtausgabe (KGA), II. Abteilung, Bd. 4, hrsg. v. Wolfgang Virmond unter Mitwirkung v. Hermann Patsch. Berlin/Boston: De Gruyter, 2012 (Gabriel Cercel)"
           ]
         },
         {
@@ -201,7 +202,8 @@
         "isbnPaperback": "978-973-50-4200-4",
         "isbnEbook": "978-973-50-4201-1 ",
         "pages": "456",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "on-the-proper-use-of-phenomenology-studia-13-2013"
       },
       "order": [
         {
@@ -242,16 +244,7 @@
       ],
       "contents": [
         {
-          "sectionTitle": "A. Articles",
-          "articles": [
-            {
-              "authors": "Mădălina Diaconu, Ion Copoeru",
-              "title": "Introduction. Lived Places, Environments and Atmospheres: Phenomenology and the Transformations of Experience"
-            }
-          ]
-        },
-        {
-          "sectionTitle": "Introduction",
+          "sectionTitle": "",
           "articles":[
             {
               "authors": "Olivier Abel, Paul Marinescu",
@@ -275,7 +268,11 @@
           ]
         },
         {
-          "sectionTitle": "Articles I. Phenomenological Sources and Hermeneutical Breakthroughs",
+          "sectionTitle": "Articles",
+          "articles": []
+        },
+        {
+          "sectionTitle": "I. Phenomenological Sources and Hermeneutical Breakthroughs",
           "articles": [
             {
               "authors": "Jean Grondin",
@@ -300,7 +297,7 @@
           ]
         },
         {
-          "sectionTitle": "Articles II. Heresies and Limit-Notions",
+          "sectionTitle": "II. Heresies and Limit-Notions",
           "articles": [
             {
               "authors": "Lorenzo Altieri",
@@ -336,7 +333,7 @@
         },
 
         {
-          "sectionTitle": "Articles III. Horizons and Dialogues",
+          "sectionTitle": "III. Horizons and Dialogues",
           "articles": [
             {
               "authors": "Eddo Evink",
@@ -421,7 +418,8 @@
         "isbnPaperback": "978-973-50-3738-3",
         "isbnEbook": "978-973-50-3739-0",
         "pages": "456",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "possibilities-of-embodiment-12-2012"
       },
       "order": [
         {
@@ -461,7 +459,132 @@
         }
       ],
       "contents": [
-
+        {
+          "sectionTitle": "",
+          "articles": [
+            {
+              "authors": "Elizabeth A. Behnke, Cristian Ciocan",
+              "title": "Introduction: Possibilities of Embodiment"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Articles",
+          "articles": [
+            {
+              "authors": "Chris Nagel",
+              "title": "Phenomenology without “the body”?",
+              "abstract": "French phenomenology focused on “the body” to avoid the supposed transcendental idealism of Husserl’s phenomenology, and to provide an “existential” or “empirical” account of the origin of meaning, as Ricœur put it. In practice, however, this has implicitly presupposed a Cartesian problematic of the relation between body and mind or “subject.” This is the source of the ultimate frustration of this effort, as well as the persistence of a “mystery” of meaning (to cite Merleau-Ponty and Henry). This essay offers an alternative, considering the embodiment of any meaningful experience, suggesting finally that embodiment must be accounted for in terms of subjection."
+            },
+            {
+              "authors": "Gunnar Declerck",
+              "title": "Incarnation, motricité et rapport au possible",
+              "abstract": "For Husserl, kinaesthetic capability is a key piece of the process of perception. By ensuring the junction between the actual and the potential, it allows the exhibition of an object that is always more than what appears. Kinaesthetic capability preserves the transcendence of the object by preventing the phenomenon from being confined to pure actuality. This idea, however, poses significant challenges when one questions the nature of the possibilities that are at stake here. Especially, the perceived seems to enjoy a kind of emancipation from these capabilities as they actually are. How can one justify that the structures of the perceived world are the intentional correlate of the kinaesthetic skills of the subject if such structures continue to regulate the sense of the appearing objects when those skills are neutralized? We will see that only a genetic perspective, assuming the intrinsically historical character of the subject, provides a satisfactory answer to this question, and that this perspective leads to placing into question the actualist position that Husserl sometimes tends to adopt."
+            },
+            {
+              "authors": "Diego D’Angelo",
+              "title": "Die Schwelle des Lebe-Wesens: Überlegungen zur Leibinterpretation Heideggers in der Nietzsche-Abhandlung",
+              "abstract": "One of Heidegger’s most important descriptions of bodily existence can be found in his Nietzsche lectures. This paper aims to elucidate this “metaphysics of the body” both in relation to Heidegger’s Leibniz-interpretation in the later Marburg lectures as well as in the context of his later thought. Leibniz and Nietzsche are Heidegger’s points of departure in the attempt to think the difference between qewr…a and pr©xij beyond Being and Time: It is only by understanding their relationship, through a radical re-thinking of the problem of corporeality, no longer as a noun (der Leib) but as a verb (leiben), that one can possibly move beyond every traditional dualism, between theory and praxis but also and most notably between being and becoming."
+            },
+            {
+              "authors": "Jan Bierhanzl",
+              "title": "Signifiance éthique et corporéité dans Autrement qu’être ou au-delà de l’essence",
+              "abstract": "The paper here presented deals with ethical signifying as happening in corporeity. The starting point is a provisional definition of ethical signifying as a process and a relation to the other. In the first part I attempt to describe precisely this process and distinguish two aspects: concretization and hyperbole. In the second and main part I try to outline concretization and hyperbole in the corporeal relation to the other. The modalities of ethical signifying are caress, vulnerability, maternity and last but not least the voice of the self."
+            },
+            {
+              "authors": "Anne Gléonec",
+              "title": "Corps animal et corps humain : l’« effacement » de la propriété. À la naissance de l’institution chez Merleau-Ponty",
+              "abstract": "The purpose of this article is to show that in Merleau-Ponty’s lesser known works, one can find a path leading toward a phenomenology of the body that would not risk the “ambiguity of the flesh,” as *The Visible and the Invisible* is often charged with, but instead would sustain the ontology of nature that one finds in the “Working Notes” added to Merleau-Ponty’s last writings. Analyzing first his concept of nature, as it was developed in his courses at the *Collège de France*, the proposed aim of this text is to question anthropological difference by focusing on Merleau-Ponty’s interpretation of the contemporary sciences, whereby the *Ineinander* between the physical, living, and human orders is re-founded by a new, negative concept of nature. By deconstructing classical ontology and its understanding of space, time, and objectivity, and by returning to the domain of perception, this new concept offers a novel way to reveal the advent of life in nature, its institution, and the emergence of a new corporeity in life itself. The model of Merleau-Ponty’s essential concept of institution becomes birth, and therefore the human body will no longer be interpreted as “one’s own body,” but rather will be understood, in a radically *a-subjective way*, as from, and based on, the participation of our perception with animality. Thereby, the concept of “ownness” becomes secondary; however, the notion of institution, established against the lexicon of consciousness and subjectivity, opens another sense of anthropological difference, one that is based only on the experiences of corporeity."
+            },
+            {
+              "authors": "Emre Şan",
+              "title": "Corporéité et existence: Patočka, Merleau-Ponty, Maine de Biran",
+              "abstract": "We propose here to analyze Patočka’s dialogue with Merleau-Ponty and Maine de Biran with regard to the reciprocal implication of the body and existence. Patočka’s gesture seeks to discover the condition of existence and its effectiveness, named by the concept of flesh for Merleau-Ponty. What is the meaning of existence as constitutive flesh? The analysis will consist of three parts. The first part of the article presents the meaning of embodiment characterized by Merleau-Ponty in the analysis of the experience of the body as a sexed being. In the second part, we will analyze the corporeal movement that shows existence in its specificity. In the third and final part, we will analyze the original relationship of subjectivity to corporeal movement through Patočka’s reading of Maine de Biran."
+            },
+            {
+              "authors": "Luka Nakhutsrishvili",
+              "title": "Corps propre et corps technique(s): Jean-Luc Nancy et la phénoménologie",
+              "abstract": "This essay deals with Jean-Luc Nancy’s ambivalent philosophical relationship to the phenomenological perspective on the problem of corporeity. The present analysis aims to point out how within the framework of a critical rejection of some of the fundamental elements of the phenomenological tradition, Nancy adopts some of its other elements in order to forge his own approach to corporeity. While traversing Nancy’s thinking from his critique of the Leib to his concept of technique and ecotechnics, the essay engages in a critical discussion of diverse phenomenological motifs from Husserl’s, Merleau-Ponty’s and Heidegger’s oeuvre."
+            },
+            {
+              "authors": "Corry Shores",
+              "title": "Body and World in Merleau-Ponty and Deleuze",
+              "abstract": "To compare Merleau-Ponty’s and Deleuze’s phenomenal bodies, I first examine how for Merleau-Ponty phenomena appear on the basis of three levels of integration: 1) between the parts of the world, 2) between the parts of the body, and 3) between the body and its world. I contest that Deleuze’s attacks on phenomenology can be seen as constructive critiques rather than as being expressions of an anti-phenomenological position. By building from Deleuze’s definition of the phenomenon and from his more phenomenologically relevant writings, we find that phenomena for him are given to the body under exactly the opposite conditions as for Merleau-Ponty, namely that 1) the world’s differences 2) appear to a disordered body that 3) comes into shocking affective contact with its surroundings. I argue that a Deleuzian theory of bodily-given phenomena is better suited than Merleau-Ponty’s model in the task of accounting for the intensity of phenomenal appearings."
+            },
+            {
+              "authors": "James Mensch",
+              "title": "Public Space and Embodiment",
+              "abstract": "Hannah Arendt’s notion of public space is one of her most fruitful, yet frustrating concepts. Having employed it to analyze political freedom, she claims that such space has largely disappeared in the modern world. In what follows, I am going to argue that this pessimistic assessment follows from Arendt’s exclusion of *labor* and *work* from the public realm. Against Arendt’s claim that such activities are essentially private, I shall argue that they, like *action*, manifest our embodied being-in-the-world. When we think of public space in terms of our embodied presence, it becomes a concept applicable to modern democratic politics."
+            },
+            {
+              "authors": "Agustín Serrano de Haro",
+              "title": "New and Old Approaches to the Phenomenology of Pain",
+              "abstract": "Ortega y Gasset’s old lament that no one had so far attempted a rigorous phenomenology of pain no longer holds since the appearance of Christian Grüny’s recent monograph *Zerstörte Erfahrung. Eine Phänomenologie des Schmerzes*. Grüny argues for the use of phenomenological categories from Merleau-Ponty in order to understand physical pain as a “blocked escape-movement” (“blockierte Fluchtbewegung”), concluding that corporeal suffering makes impossible both a clean distinction and a pure identification between the lived body and the physical body that I am. In my paper, I would like to suggest some improvements to Grüny’s approach through the utilization of the category of self-affection, as the material phenomenology of Michel Henry has developed it. In addition to the radical immanence in which hyle, noesis, and noema are unified into a “carnal cogito,” however, I argue that it is necessary to describe the painful self-affection not only in terms of any sensitive excess whatever (*überhaupt*), as Grüny posits, but also in terms of a mutation of the sensitive excess into the intra-tactile sphere of sensibility. Thus I endorse the Husserlian insight that makes tactility the primordial structure of sensibility."
+            },
+            {
+              "authors": "Alexandru Dincovici",
+              "title": "The Appearance of the Body: On Body Awareness and Combat Sports",
+              "abstract": "If the absence and disappearance of the body have enjoyed considerable attention in the social sciences, the same cannot be said about its appearance, other than during dysfunctional states such as pain and illness. The present article draws from a large array of phenomenological studies and presents a situation in which the body comes to the fore in one’s consciousness during the learning of combat sports, a seemingly destructive practice. The argument that I will develop, starting from extensive ethnographic research in two distinctive combat sports, is that every type of bodily practice develops a specific type of reflective body awareness that has a significant impact upon both the way we feel our bodies and the way we feel the world. In other words, what we do with and to our bodies shapes the way we see and experience the world."
+            },
+            {
+              "authors": "Mónica E. Alarcón Dávila",
+              "title": "Kinästhetisches Bewusstsein und sinnliche Reflexion im Tanz",
+              "abstract": "Is the relationship of self-moving (kinaesthesis) to itself a direct pre-reflective self-awareness, or is it mediated through an Other? This article attempts to address this question, taking the phenomenon of dance as a point of departure, since in dance, movement steps out of its everyday background function to become the principal theme. Rudolf zur Lippe extracts from a dance step of the dances of the Quattrocento, the posa, a concept of sensual reflection. Rather than a conceptual reflection, the posa can be understood as an awareness of one’s own movement. In this article, in a dialogue between critical philosophy, dance science, and phenomenology, terms of a possible sensual reflection in dance will be discussed."
+            },
+            {
+              "authors": "Denis Francesconi and Massimiliano Tarozzi",
+              "title": "Embodied Education: A Convergence of Phenomenological Pedagogy and Embodiment",
+              "abstract": " In this article we argue for the necessity of a new double alliance between phenomenology and cognitive sciences (through embodied theory) on the one hand, and between phenomenological pedagogy and the embodiment paradigm on the other. We strongly believe that phenomenological pedagogy should enter into dialogue with the cognitive sciences movement called “Embodiment” in order to renew its educational theories and practices. Indeed, the new suggestions about the mind that come from the embodiment paradigm can already have a huge impact on learning and education, but a relatively structured “pedagogy of consciousness” is still missing. This topic will be discussed with a special focus on body and embodied consciousness, which nicely brings together these different traditions. Finally, an actual example of how the embodiment paradigm and phenomenological pedagogy can converge will be presented through the practice of meditative experience."
+            },
+            {
+              "authors": "Adam Konopka",
+              "title": "The Environed Body: The Lived Situation of Perceptual and Instinctual Embodiment",
+              "abstract": "This article is an attempt to retrieve phenomenological resources for the purposes of identifying and clarifying the lived situation of embodiment in an environing world (Umwelt). Drawn primarily from Husserlian resources, it identifies several essential perceptual features of the operative intentionality of environed embodiment. Through an engagement with Husserl’s analyses of instinctual experience, I identify an essential feature of environed embodiment: the principle of association governing the nexus among objects in an environing world that are animated toward an instrumental resolution of an embodied tension, a resolution that promotes the maximization of embodied equilibrium that is instrumental for self-preservation and well-being."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Varia",
+          "articles": [
+            {
+              "authors": "Witold Płotka",
+              "title": "Husserlian Phenomenology as Questioning: An Essay on the Transcendental Theory of the Question",
+              "abstract": "The article presents the transcendental reduction as a type of questioning, and by so doing formulates the problem of the structure and motivation of reduction. Transcendental questioning is presented as a permanent formulation and reformulation of questions, which, it is argued, make it possible to overcome the naïveté of the natural attitude. However, the phenomenologist does not overcome naïveté in the sense of excluding it; instead, he is conscious of it. It is argued that one should understand transcendental questioning as a practical activity that makes the phenomenologist responsible for knowledge by leading toward the essence, which seems to be \"unquestionable\"."
+            },
+            {
+              "authors": "Vittorio De Palma",
+              "title": "Die Phänomenologie als radikaler Empirismus",
+              "abstract": "This paper tries to show that Husserl’s phenomenology can be considered as a form of radical empiricism in the sense of James, since it holds—like traditional empiricism—that sensuous experience is the foundation and the source of justification of knowledge, but—in contrast with traditional empiricism—it holds that there are relations, which are given in the sensuous experience just as well contents. Reality is sensuous and the structure of reality is equally sensuous. By an analysis of the concepts of the sensuous relation, of the material a priori, and of association, it is showed that Husserl—in contrast with transcendentalism—confers a normative role to the peculiarity of sensuous contents, which determines their objective connections and also the structure of the world before the intellectual activities of the subject. At the same time, it is pointed out that Husserl has never entirely gotten over the Cartesian psychologism of Brentano and of traditional empiricism, that leads him to consider only the immanent as properly present. Finally, the paper discusses Husserl’s concept of the life-world, which originates from Avenarius’ idea of the natural concept of the world, and his position regarding the relation between experience and science."
+            },
+            {
+              "authors": "Parvis Emad",
+              "title": "Heidegger’s Stance on Hölderlin in Beiträge",
+              "abstract": "This paper attempts to elucidate the exceptional stance Heidegger takes in Beiträge toward Hölderlin’s \"poetizing\". On the one hand, Beiträge provides no specific guideline for understanding this exceptional stance. On the other hand, the text of a “Dialogue” Heidegger wrote almost a decade after Beiträge, provides the hermeneutic guideline needed for understanding Heidegger’s exceptional position on this poet. This hermeneutic guideline is none other than what Heidegger calls the \"Will\". Following this guideline, the paper proceeds to highlight the hermeneutic thesis according to which another appearing of being (Sein)—one not referentially dependent upon the \"Will\"—is sheltered and preserved in Hölderlin’s \"poetizing\". Elucidating this thesis the paper concludes that Hölderlin’s \"poetizing\" unfolds from within the Other Onset (der andere Anfang) of thinking."
+            },
+            {
+              "authors": "Dan Arbib",
+              "title": "Donner la mort? Phénoménologie et sacrifice. Note sur une interprétation de Derrida",
+              "abstract": "This article claims to dispute Derrida’s interpretation of Isaac’s sacrifice proposed in Donner la mort by means of three sources: 1) midrashic sources, which impose to read the sacrifice not as a requirement of murder, but as sacrifice of the sacrifice; 2) the phenomenology of Levinas which allows to measure the violence of the interpretation of Derrida and to return the biblical episode to the complications of the relationships between ethics and rationality; 3) the phenomenology of Marion, which, by refusing to interpret this biblical episode as a sacrifice following its common concept, proposes a phenomenological interpretation which returns the sacrifice to the conceptuality of the gift and donation, considered as impossible by Derrida. Far from being conflicting ways, these three layers of analysis can be capitalized and mutually validated."
+            },
+            {
+              "authors": "Carlos Lobo",
+              "title": "La « résistance de Derrida à la psychanalyse » et la phénoménologie transcendantale",
+              "abstract": "Following Derrida’s late analysis of the multifarious concept of resistance, this article aims at detecting the motives that lead him to install from the start a tension between two methods of analysis of consciousness (phenomenological and psychoanalytical), that many would have considered, if not affectively unbearable, at least logically unsustainable. Yet this general logical and affective attitude remains describable, and in order to do so, the author proposes to delve into some underestimated and hence underexploited resources of transcendental phenomenology, particularly those related to the analysis of affective syntaxes of consciousness, which are part of the “realm of positionality”."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Book reviews",
+          "entry": [
+            "Claudia Şerban - Claude Romano, Au cœur de la raison, la phénoménologie (Paris: Gallimard, 2010)",
+            "Denisa Butnaru - Natalie Depraz, Francisco J. Varela, Pierre Vermersch, À l’épreuve de l’expérience – Pour une pratique phénoménologique (Bucarest: Zeta Books, 2011);",
+            "Christian Ferencz-Flatz - Jitendra Nath Mohanty, Edmund Husserl’s Freiburg Years 1916–1938 (New Haven & London: Yale University Press, 2011);",
+            "Nicoleta Szabo - Frédéric Moinat, Le vivant et sa naturalisation. Le problème du naturalisme en biologie chez Husserl et le jeune Merleau-Ponty (Dordrecht – Heidelberg – London – New York : Springer, 2012);",
+            "Rolf Kühn - Antoine Vidalin, Acte du Christ et actes de l’homme. La théologie morale à l’épreuve de la phénoménologie de la vie (Paris: Parole et Silence, 2012);",
+            "Rolf Kühn - Benoît Kanabus, Généalogie du concept d’Archi-Soi chez Michel Henry (Hildesheim-Zürich-New York, Olms Verlag, 2011);",
+            "Cătălin Cioabă - Matthias Flatscher, Logos und Lethe. Zur phänomenologischen Sprachauffassung im Spätwerk von Heidegger und Wittgenstein (Freiburg / München: Karl Alber, 2011)."
+          ]
+        }
       ]
     },
     "11": {
@@ -476,7 +599,8 @@
         "isbnPaperback": "978-973-50-3277-7",
         "isbnEbook": "978-973-50-3278-4",
         "pages": "404",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "concepts-of-tradition-in-phenomenology-studia-11-2011"
       },
       "order": [
         {
@@ -532,7 +656,8 @@
         "isbnPaperback": "978-973-50-2820-6",
         "isbnEbook": "978-973-50-2821-3",
         "pages": "432",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "phenomenology-and-psychology-studia-10-2010"
       },
       "order": [
         {
@@ -588,7 +713,8 @@
         "isbnPaperback": "978-973-50-2553-3",
         "isbnEbook": "978-973-50-2553-3",
         "pages": "550",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "michel-henry-s-radical-phenomenology-studia-9-2009"
       },
       "order": [
         {
@@ -643,7 +769,8 @@
         "isbnPaperback": "978-973-50-2223-5",
         "isbnEbook": "978-973-50-2223-5",
         "pages": "480",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "phenomenology-and-literature-studia-8-2008"
       },
       "order": [
         {
@@ -699,7 +826,8 @@
         "isbnEbook": "978-973-50-1648-7",
         "pages": "568",
         "size": "17 x 24 cm",
-        "info": "volume edited in collaboration with Jan Patocka Archive in Prague as the Patocka centenary commemorative volume"
+        "info": "volume edited in collaboration with Jan Patocka Archive in Prague as the Patocka centenary commemorative volume",
+        "slug": "jan-patocka-and-the-european-heritage-studia-7-2007"
       },
       "order": [
         {
@@ -756,7 +884,8 @@
         "isbnPaperback": "978-973-50-1416-2",
         "isbnEbook": "978-973-50-1416-2",
         "pages": "496",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "a-century-with-levinas-studia-6-2006"
       },
       "order": [
         {
@@ -811,7 +940,8 @@
         "isbnPaperback": "973-50-1142-5",
         "isbnEbook": "973-50-1142-5",
         "pages": "410",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "translating-heidegger-s-sein-und-zeit-studia-5-2005"
       },
       "order": [
         {
@@ -868,7 +998,8 @@
         "isbnPaperback": "973-50-0979-X",
         "isbnEbook": "973-50-0979-X",
         "pages": "296",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "alexandru-dragomir-a-romanian-phenomenologist-studia-4-34-2004"
       },
       "order": [
         {
@@ -924,7 +1055,8 @@
         "isbnPaperback": "",
         "isbnEbook": "",
         "pages": "296",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "issues-on-brentano-husserl-and-heidegger-studia-4-12-2004"
       },
       "order": [
         {
@@ -980,7 +1112,8 @@
         "isbnPaperback": "973-50-0655-3",
         "isbnEbook": "973-50-0655-3",
         "pages": "406",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "maurice-merleau-ponty-chiasm-and-logos-studia-3-34-2003"
       },
       "order": [
         {
@@ -1036,7 +1169,8 @@
         "isbnPaperback": "973-50-0564-6",
         "isbnEbook": "973-50-0564-6",
         "pages": "317",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "the-school-of-brentano-and-husserlian-phenomenology-studia-3-12-2003"
       },
       "order": [
         {
@@ -1092,7 +1226,8 @@
         "isbnPaperback": "",
         "isbnEbook": "",
         "pages": "256",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "issues-on-husserl-fink-and-schutz-studia-2-34-2002"
       },
       "order": [
         {
@@ -1147,7 +1282,8 @@
         "isbnPaperback": "",
         "isbnEbook": "",
         "pages": "321",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "in-memoriam-hans-georg-gadamer-studia-2-12-2002"
       },
       "order": [
         {
@@ -1202,7 +1338,8 @@
         "isbnPaperback": "",
         "isbnEbook": "",
         "pages": "506",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "the-early-heidegger-studia-1-34-2001"
       },
       "order": [
         {
@@ -1257,7 +1394,8 @@
         "isbnPaperback": "",
         "isbnEbook": "",
         "pages": "440",
-        "size": "17 x 24 cm"
+        "size": "17 x 24 cm",
+        "slug": "heidegger-and-theology-studia-1-12-2001"
       },
       "order": [
         {
