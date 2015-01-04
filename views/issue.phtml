@@ -3,25 +3,31 @@
     <img src="/assets/images/<?=$issue['cover']?>" class="img-responsive" alt="Studia Phaenomenologica Cover">
   </div>
   <div class="col-sm-7">
-        <h1> <?=$issue['title']?> </h1>
-        <h3> <?=$journal['journalTitle'].' - '.$journal['journalSubtitle']?> </h3>
-        <h3> <?=$issue['number'].' / '.$issue['year'] ?> </h3>
-        Journal Editor: <?=$journal['journalEditor']?><br />
-        Issue Coordinators: <?php echo showCoordinators($issue); ?><br />
-        ISBN: <?=$issue['isbnPaperback']?> (print) / <?=$issue['isbnEbook']?> (eBook)<br />
-        ISSN: <?=$journal['issnPrint'] ?> (print) / <?=$journal['issnOnline'] ?> (online)<br />
-        Pages: <?=$issue['pages']?><br />
-        Size: <?=$issue['size']?><br />
-        Available in both printed and eBook version.
+        <h1> <?php echo $issue['title']; ?> </h1>
+        <h3> <?php echo $journal['journalTitle'].' - '.$issue['number'].' / '.$issue['year']; ?> </h3>
+        Journal Editor: <?php echo $journal['journalEditor']; ?><br />
+        Issue Coordinators: 
+          <?php for ($i=0; $i<count($issue['issueCoordinator']); $i++) : ?>
+            <?php echo $issue['issueCoordinator'][$i].($i>0 ? ' ' : ' & '); ?>
+          <?php endfor; ?>
+          <br />
+        ISBN: <?php echo $issue['isbnPaperback']; ?> (print) / <?php echo $issue['isbnEbook']; ?> (eBook)<br />
+        ISSN: <?php echo $journal['issnPrint']; ?> (print) / <?php echo $journal['issnOnline']; ?> (online)<br />
+        Pages: <?php echo $issue['pages']; ?><br />
+        Size: <?php echo $issue['size']; ?><br />
+        Available in both printed and eBook version.<br />
+        Publishers: 
+          <?php for ($i=0; $i<count($journal['publisher']); $i++) : ?>
+            <a href="<?php echo $journal['publisher'][$i]['url']; ?>" target="_blank">
+              <?php echo $journal['publisher'][$i]['name']; ?>
+            </a>
+            <?php echo ($i>0 ? ' ' : ' & '); ?> 
+          <?php endfor; ?>
+          <br />
         <div>
           <?php echo $order; ?>
         </div>
         <div>
-          <a class="btn btn-warning btn-xs" role="button" href="index.php?page=issue&id=13">See Contents</a>
-          <a class="btn btn-warning btn-xs" role="button" href="index.php?page=issues">Other issues</a>
-        </div>
-        <div>
-          <?php //echo showContents($issue['contents']); ?>
           <?php echo $toc; ?>
         </div>
   </div>

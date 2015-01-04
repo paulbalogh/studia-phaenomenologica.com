@@ -1,5 +1,5 @@
 <?php foreach ($issues as $id => $issue) : ?>
-  <a href="/issues/<?php echo $id; ?>">
+  <a href="/issues/<?php echo $issue['slug']; ?>">
     <img src="assets/images/<?php echo $issue['cover']; ?>" style="max-width: 10em;">
   </a>
 <?php endforeach; ?>
