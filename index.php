@@ -27,24 +27,35 @@ map(['/all', '/all-issues', '/issues'], function($db, $current, $forthcoming){
   print phtml('all-issues', ['issues' => $issues]);
 });
 
-map(['/issues/{id}'], function ($params, $db, $current, $forthcoming, $Parsedown) {
-  $issue = $db['issue'][$params['id']];
-  // $latest = $db['issue'][$current];
-  $journal = $db['journal'];
-  $contents = $issue['contents'];
-
-  function showCoordinators($issue){
-    $html = '';
-    for ($i=0; $i<count($issue['issueCoordinator']); $i++) {
-      if ($i>0){$html .= ' & ';};
-      $html .= $issue['issueCoordinator'][$i];
-    }
-    return $html;
+map(['/issues/{slug}'], function ($params, $db, $current, $forthcoming, $Parsedown) {
+  // get all slugs
+  foreach ($db['issue'] as $id => $issue) {
+    $slugs[$id] = $issue['info']['slug'];
   }
+  // check if present
+  if(in_array($params['slug'], $slugs)){
 
-  $toc = phtml('toc', ['contents' => $issue['contents'], 'Parsedown' => $Parsedown], false);
-  $order = phtml('order', ['order' => $issue['order']], false);
-  print phtml('issue', ['issue' => $issue['info'], 'journal' => $journal, 'order' => $order, 'toc' => $toc], 'layout');
+    $id = array_search($params['slug'], $slugs);
+    $issue = $db['issue'][$id];
+    $journal = $db['journal'];
+
+    function showCoordinators($issue){
+      $html = '';
+      for ($i=0; $i<count($issue['issueCoordinator']); $i++) {
+        if ($i>0){$html .= ' & ';};
+        $html .= $issue['issueCoordinator'][$i];
+      }
+      return $html;
+    }
+
+    $toc = phtml('toc', ['contents' => $issue['contents'], 'Parsedown' => $Parsedown], false);
+    $order = phtml('order', ['order' => $issue['order']], false);
+    print phtml('issue', ['issue' => $issue['info'], 'journal' => $journal, 'order' => $order, 'toc' => $toc], 'layout');
+  } 
+  else 
+  {
+    error(404, 'not a know slug');
+  }
 });
 
 map('GET', '/editorial-board', function($db, $current, $forthcoming){
@@ -93,8 +104,9 @@ map('GET', '/contact', function($db, $current, $forthcoming){
 //   return redirect('/');
 // });
 
-map(404, function ($code) {
-  echo 'eroare 404: resursa nu a fost gasita!';
+map(404, function ($code, $info) {
+  $error =  'Eroare 404: '.(is_string($info) ? $info : 'resursa nu a fost gasita');
+  print phtml('404', ['error' => $error]);
 });
 
 
