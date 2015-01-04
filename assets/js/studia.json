@@ -72,12 +72,17 @@
       ],
       "contents": [
         {
-          "sectionTitle": "A. Articles",
+          "sectionTitle": "",
           "articles": [
             {
               "authors": "Mădălina Diaconu, Ion Copoeru",
               "title": "Introduction. Lived Places, Environments and Atmospheres: Phenomenology and the Transformations of Experience"
-            },
+            }
+          ]
+        },
+        {
+          "sectionTitle": "A. Articles",
+          "articles": [
             {
               "authors": "Arnold Berleant",
               "title": "Environmental Sensibility",
@@ -640,7 +645,129 @@
         }
       ],
       "contents": [
-
+        {
+          "sectionTitle": "",
+          "articles":[
+            {
+              "authors":"Christian Ferencz-Flatz",
+              "title": "Introduction. Concepts of Tradition in Phenomenology"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Articles",
+          "articles": [
+            {
+              " authors": "Dorion Cairns",
+              " title": "Reflections on Tradition (edited by Lester Embree, Fred Kersten, and Richard M. Zaner)",
+              " abstract": "Individual traditions are prior to social or intersubjective traditions, but all tradition involves carrying over of doxic, axiotic, and volitional sense from the past to the present and future. Social tradition involves empathy and communication, while individual tradition is based chiefly on forms of experiencing."
+              },
+              {
+              " authors": "Andrea Zhok",
+              " title": "History as Therapy of Tradition in Husserl's Thought",
+              " abstract": "The article aims at bringing to light the internal necessity that shapes Husserl's concern with the issues of history and tradition. After discussing the role played by the teleology of reason and by genetic constitution in preparing the ground for Husserl's reflection on the historical dimension, we specifically dwell on the idea of tradition. Tradition appears both as a hindrance in our pursuit of truth, and as an indispensable sense-bestowing factor. Against this ambivalent background, history emerges as an interpretive activity charged with the task of defusing the threats implicit in the incontrollable efficaciousness of tradition, while preserving the sense-bestowing character of the formations of sense (*Sinngebilde*)."
+              },
+              {
+              " authors": "Molly Brigid Flynn",
+              " title": "Self-Responsibility, Tradition, and the Apparent Good",
+              " abstract": "The crucial distinction for ethics is between the good and the apparent good, between being and seeming. Tradition is useful for developing our ability to make this distinction and to live ethically or in self-responsibility, but it is also threatening to this ability. The phenomenology of Husserl and of others in the Husserlian tradition, especially Robert Sokolowski, are helpful in spelling out how tradition works; how the difference between the apparent good and the good is bridged in the experience of moral truth but also a permanent, challenging feature of human life; what ethics requires regarding self-responsibility or authenticity; and what the proper voice of tradition is in the ethical or moral life."
+              },
+              {
+              " authors": "Elizabeth A. Behnke",
+              " title": "Critique of Presuppositions, Apperceptive Traditionality, and the Body as a Medium for Movement",
+              " abstract": "This paper 1) examines Husserl's critique of presuppositions, a critique that realizes a desideratum of the Western philosophical tradition precisely by clarifying and grounding the latter's own tacit presuppositions; 2) surveys Husserl's descriptions of the apperceptions whose operative efficacy make tradition itself effective, holding good at both the individual and the generative levels; 3) identifies the need for a further critique of the psychophysical apperception in particular; and 4) offers a phenomenologically grounded alternative to the latter way of understanding and experiencing embodiment."
+              },
+              {
+                "authors": "Thomas Arne Winter",
+                "title": "Verdeckungsgeschichte. Heideggers phänomenologische Traditionskritik",
+                "abstract": "Heidegger's phenomenological critique of tradition shows tradition as a history of covering-up, which can be analysed in respect to different modes of covering-up: (1) the *hiddenness* of alternative interpretations, (2) the *burying-over* of the origin, (3) the *disguise* of *Dasein* and the world, (4) the *falling* as an existential covering-up. *Destruction* and the *handing down to oneself* are two possibilities of uncovering the covering-ups by means of repetition. Although Heidegger's understanding of tradition proves to be one-sided, it is fruitful for an acknowledgement of the phenomenological ambivalence that is essential to tradition."
+              },
+              {
+                "authors": "François Jaran",
+                "title": "La phénoménologie face à la philosophie traditionnelle",
+                "abstract": "Phenomenology was born as an attack against the false constructions of traditional philosophy. Nevertheless, it soon discovered that it had an important bond to Plato’s, Descartes’ or Kant’s philosophical systems. As I show in this paper, both in Heidegger and in Husserl’s last writings, the philosophical endeavor is interpreted as a retrieval of earlier philosophical intentions. However, this does not lead them to a common interpretation of the meaning of philosophy’s history."
+              },
+              {
+                "authors": "Jan-Ivar Lindén",
+                "title": "Wirkungsmächtige Tradition. Hermeneutische und lebensphilosophische Aspekte",
+                "abstract": "The paper deals with the ontological questions related to tradition, especially focusing on Gadamer and Dilthey. It is argued that tradition should be regarded not that much as a limitation, but rather as an enabling finitude that gives access to reality. This ontological structure concerns several aspects of human existence, nomothetic science included. Historical background thus has an ontological impact that surpasses objectivistic approaches. A short discussion of causality in natural science traces the genealogy of the causal scheme and compares the notion of effect with the Wirkung in the sense of effective history (Wirkungsgeschichte). In this context the difference between the modern scientific concept of nature and the natura of the elder tradition appears to be important in order to understand the specificity of Diltheyan philosophy of life (Lebensphilosophie). There seems to be a complementary relation between hermeneutics and philosophy of life insofar as both currents are trying to reinstall the modern subject in reality, Gadamers main concern being the historical incarnation in a process, profoundly marked by language and Dilthey still trying to save part of nature in history. These two aspects can be regarded as almost direct answers to the inverse Cartesian tendency to liberate the subject from its history (represented by the prejudices) and from its bodily nature (represented by confuse sensual imagination). Experience (Erfahrung) and lived experience (Erlebnis) thus seem less contradictory than some passages in Gadamers Truth and Method would suggest."
+              },
+              {
+                "authors": "Fanfan Chen",
+                "title": "Paul Ricœur's Panchronic and Ternary Approach to Tradition",
+                "abstract": "Paul Ricœur develops a hermeneutics of tradition centered on a threefold conception of tradition which involves the notions of traditionality, traditions, and Tradition. These refer to form, content, and truth-claims within the framework of the hermeneutics of historical consciousness. This hermeneutics of tradition is treated in a panchronic and ternary way. Both methods operate at the levels of past, future and present, while the ternary method also consists in the rhetoric of truth-claims, the dialectic of remoteness vs. de-distanciation and that of question vs. answer. This article attempts to study three aspects of the panchronic and ternary approach: (1) a living and ternary tradition with an ongoing dialectic interweaving the ecstases of time; (2) tradition in relation to historical consciousness and the spatialization of historicity; (3) temporalizing history and historicizing schematism in threefold mimesis."
+              },
+              {
+                "authors": "Jean Philippe Pierron",
+                "title": "La tradition vivante ou l'être affecté par le passé. Une lecture de Paul Ricœur",
+                "abstract": "Modernity has always blamed the authority of tradition for hindering emancipation while at the same time affirming, for fear of abstraction, the creative energies of traditions. Can the Enlightenment's abstract universal character be overcome without succumbing to the dogmatism of the appeal to Tradition? Paul Ricœur's philosophical project aims at surpassing this opposition by forging the concept of living tradition in which history and universal find a new articulation. This paper brings to light the originality of the dynamic relationship between present and past elaborated in Ricœur's philosophical hermeneutics."
+              },
+              {
+                "authors": "Roberto Terzi",
+                "title": "La contamination et le retard. Phénoménologie de l'historicité et de la tradition chez Derrida",
+                "abstract": "Through an immanent reversal of Husserl's approach to the problems of genesis, writing, and time, Derrida radicalizes the phenomenology of historicity in the direction of a contamination between the empirical and the transcendental. In this paper, I argue that this also entails a transformation of the very concept of tradition: every tradition is always already tainted by the possibility of constitutional crisis and oblivion and it can only be questioned by thought after the historical fact. I conclude with an account of the general meaning of Derrida's analysis of Husserl's phenomenology, and indicate its importance for his later work."
+              }
+            ]
+        },
+        {
+          "sectionTitle": "Varia",
+          "articles": [
+            {
+              "authors": "Vittorio de Palma",
+              "title": "Quallen, Menschen, Gestirngeister. Intersubjektivität, Anomalität und Gemeinwelt aus phänomenologischer Sicht",
+              "abstract": "This paper analyses the question of animals in the framework of the phenomenological problem of the common world. First, it underlines the contrast between Husserl's idea of animals as subjects acting in accordance with a motivation, and the views of Descartes, Heidegger and Sellars, who consider animal behaviour as mechanical or instinctive. After an account of the phenomenological approach to the question of the common world and of Husserl's position concerning animals, it is showed that the results of scientific research on animal behaviour mainly confirm that position."
+            },
+            {
+              "authors": "Claudia Şerban",
+              "title": "Fungierende Leiblichkeit : le rôle méthodologique du corps dans la phénoménologie de Husserl",
+              "abstract": "The phenomenological problem of the body (Leib) goes further than its treatment as a theoretical object, insofar as it concerns the meaning and the accomplishment of the phenomenological method itself. Both reduction and intuition, the two major poles of this method, imply in their specificity the reference to an operative corporeity (fungierende Leiblichkeit). The primordial sphere of absolute givenness cannot thus reduce the body proper without sacrificing the very principle that allows delimiting it. But this seems to lead to an unavoidable subjectivation of the phenomenological experience, whose model remains the object of perception (internal or external) and its ideal of intuitivity. In the last part of the paper it is however argued that corporeity is more than the resort of such a subjectivation, appearing also to be, within the framework of expression, the key to intersubjective comprehension."
+            },
+            {
+              "authors": "Wei Zhang",
+              "title": "Person und Selbstgefühl im phänomenologischen Personalismus Max Schelers",
+              "abstract": "The meanings of person in Scheler's phenomenology are discussed on three levels: that of epistemology, of ontology and of ethics. One can find the possible unity among these three levels through the concept of \"self-feeling\". There are also three different philosophical meanings of self-feeling: \"self-feeling 1\" on epistemological level, \"self-feeling 2\" on ontological level, and \"self-feeling 3\" on ethical level. The person is self-given and gains its self-identity through \"self-feeling 1\". The person is related to its own existence and its being, as well as to the absolute being in the negative and positive \"self-feeling 2\". Therefore, the pattern of the being of the person is the becoming of the person, more exactly, is the to-be of the person toward the ideal ordo amoris and the ideal value-essence of person. According to Scheler, \"self-feeling 3\" builds the technique of personal salvation. One can completely understand Scheler's phenomenological concept of person through the three meanings of self-feeling."
+            },
+            {
+              "authors": "Vincent Blok",
+              "title": "Der \"religiöse\" Charakter von Heideggers philosophischer Methode: relegere, re-eligere, relinquere",
+              "abstract": "The question addressed in this article is to what extent a destructed concept of religion can be said to characterize the philosophical method of Martin Heidegger. In order to approach this question, we first characterize his method as \"Vollzug der Fraglichkeit\": philosophy in its deepest sense does not mean to give answers to questions but to ask questions. According to Heidegger, the execution of questioning consists in the \"transforming repetition\" of the leading question (Leitfrage) of philosophy in order to ask the basic question of philosophy (Grundfrage). In the second part of the article, we reflect on the \"religious\" character of Heidegger's method of questioning. The reflection makes use of different etymological derivations of the word \"Religion\": relegere (to observe carefully), re-eligere (to choose again), religare (to bind back), relinquere (to leave behind). In the third part of the article, we discuss what Heidegger's \"religious\" method of philosophy means for present questions concerning religion. To that end, we finish with a confrontation between Heidegger and Derrida with respect to the \"religious\" method of philosophy."
+            },
+            {
+              "authors": "Judith Wambacq",
+              "title": "Maurice Merleau-Ponty's Criticism of Bergson's Theory of Time Seen Through the Work of Gilles Deleuze",
+              "abstract": "In this article I examine the relation between the philosophies of Maurice Merleau-Ponty and Gilles Deleuze by looking at the way in which they refer to Henri Bergson's time theory. Although Merleau-Ponty develops some fundamental Bergsonian insights on the nature of time, he presents himself as a critical reader of the latter. I will show that although Merleau-Ponty's interpretation of Bergson differs fundamentally from Deleuze's interpretation, Merleau-Ponty's \"corrections\" of Bergson's theory fit Deleuze's reading of Bergson very well. This indicates a similarity with respect to what is at stake in the philosophies of Merleau-Ponty and Deleuze. Hence the critical reference that Deleuze makes to Merleau-Ponty's conception of cinema and thus of movement is not justified, but is the result of a selective and prototypical reading of the early Merleau-Ponty."
+            },
+            {
+              "authors": "Grégori Jean",
+              "title": "Quand peut un corps? Corporéité, affectivité et temporalité chez Michel Henry",
+              "abstract": "One of Michel Henry's major contributions to the phenomenology of the body consists in his proposal, based on his reading of Maine de Biran, to understand the subjective corporeity from the angle of the ability of action. Subjective corporeity acquires its ontological autonomy and its reality only through its own temporality. In reference to several unpublished texts, this article tries to clarify the nexus between ability and time, and thus to emphasize the crucial importance of the past for a \"phenomenology of life\", in his paradoxical connection with the necessity to think a \"coming in presence\" of the world."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Review-Article",
+          "article": [
+            {
+              "authors": "Eric Pommier",
+              "title": "La phénoménologie de la vie de Renaud Barbaras",
+              "abstract": "Renaud Barbaras wants to show that only the concept of life can help us understand how the subject may be a condition as well as a part of the world. The failures of the former phenomenological theories on this point is due to \"the ontology of death\" they assume, which leads to separate the conscience and the body. It is thus required to realise an epochè of death so as to think the unity of the subject. Ultimately, Renaud Barbaras is led to define life from desire."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Book Reviews",
+          "entry": [
+            "Aron Gurwitsch, *The Collected Works of Aron Gurwitsch, Volume I: Constitutive Phenomenology in Historical Perspective* (Jorge García-Gómez ed.), Dordrecht: Springer, 2009; Volume II: Studies in Phenomenology and Psychology (Fred Kersten ed.), Dordrecht: Springer, 2010; Volume III: The Field of Consciousness: Theme, Thematic Field, and Margin (Richard M. Zaner ed.), Dordrecht: Springer, 2010 (Daniel Marcelle)",
+            "Jean-Luc Marion, *Certitudes négatives*, Paris: Grasset, 2010 (Claudia Șerban)",
+            "Hans-Dieter Gondek, László Tengelyi, *Neue Phänomenologie in Frankreich*, Berlin: Suhrkamp, 2011 (Christian Rössner)",
+            "Hans-Helmuth Gander (ed.), *Husserl-Lexikon*, Darmstadt: Wissenschaftliche Buchgesellschaft, 2010 (Daniel Dwyer)",
+            "Jean-François Lavigne, *Accéder au transcendantal ? Réduction et idéalisme transcendantal dans les Idées directrices pour une phénoménologie pure et une philosophie phénoménologique de Husserl*, Paris: Vrin, 2009 (Délia Popa)",
+            "Lambert Wiesing, *Das Mich der Wahrnehmung. Eine Autopsie*, Frankfurt am Main: Suhrkamp, 2009 (Mădălina Diaconu)",
+            "Sam B. Girgus, *Levinas and the Cinema of Redemption. Time, Ethics, and the Feminine*, New York: Columbia University Press, 2010 (Mădălina Diaconu)",
+            "Frédéric Seyler, *« Barbarie ou culture » : L'éthique de l'affectivité dans la phénoménologie de Michel Henry*, Paris: Kimé, 2010 (Rolf Kühn)",
+            "Mette Lebech, *On the Problem of Human Dignity. A Hermeneutical and Phenomenological Investigation*, Würzburg: Königshausen & Neumann, 2009 (Stephan Steiner)"
+          ]
+        }
       ]
     },
     "10": {
