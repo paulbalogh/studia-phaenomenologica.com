@@ -241,7 +241,171 @@
         }
       ],
       "contents": [
-        
+        {
+          "sectionTitle": "A. Articles",
+          "articles": [
+            {
+              "authors": "Mădălina Diaconu, Ion Copoeru",
+              "title": "Introduction. Lived Places, Environments and Atmospheres: Phenomenology and the Transformations of Experience"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Introduction",
+          "articles":[
+            {
+              "authors": "Olivier Abel, Paul Marinescu",
+              "title": "Introduction. On the Proper Use of Phenomenology – Paul Ricœur Centenary"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Documents",
+          "articles": [
+            {
+              "authors": "Paul Ricœur", 
+              "title": "L’attention. Etude phénoménologique de l’attention et de ses connexions philosophiques",
+              "abstract": "Paul Ricœur held the conference on attention at Rennes, on the 2nd of March 1939, before the Philosophical Circle of the West. At the time, Ricœur, aged 26, was a teacher of philosophy at Lorient, in the south of Brittany. The text published here, which is available in the Paris Archives, is Ricœur’s extended version of this conference. His careful analysis of attention is impressive in its phenomenological emphasis: from the first lines, he draws relations between attention and perception, considering their intentional character, and continues by distinguishing attention from anticipation, pre-perception and waiting. A particular concern is given to the relation between attention and temporal duration – a question that will be reworked later in his philosophy of the will. After questioning how attention implies the notion of truth (not without reminding the contributions of Descartes, Thomas, Malebranche and Berkeley), he concludes by meditating upon the relation between attention and liberty."
+            },
+            {
+              "authors": "Paul Ricœur, Hans-Georg Gadamer",
+              "title": "Correspondance / Briefwechsel (1964–2000)",
+              "abstract": "We publish here the letters between Gadamer and Ricœur, as they are found in the Archives of the two philosophers (Gadamer-Archiv in Marbach and Fonds Ricœur in Paris). Starting from February 1964 and ending on October 2000, the thirty-five letters reproduced here cannot give a complete picture of their much richer correspondence and relations, because it seems that neither Ricœur, nor Gadamer kept all the letters they received from one another. But altogether, they document their common concerns, their mutual respect, even their intellectual solidarity and finally the particular context that brought them to write to one another, i.e. Ricœur’s intention to publish a translation of Gadamer’s book, *Truth and Method*, in a new series he edited for the Seuil Publisher. This publishing and translation project will mark their entire correspondence."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Articles I. Phenomenological Sources and Hermeneutical Breakthroughs",
+          "articles": [
+            {
+              "authors": "Jean Grondin",
+              "title": "Ricœur a-t-il d’abord introduit l’herméneutique comme une variante de la phénoménologie?",
+              "abstract": "In later, retrospective texts where he explained his hermeneutical turn, Paul Ricœur claimed that this turn was due to the impossibility of knowing oneself directly, through introspection, and the necessity to undertake the detour of interpretation with regard to knowledge of oneself. By going back to the first occurrences of this hermeneutical turn in his work of 1960, *The Symbolism of Evil*, this paper argues that other motives, which were later forgotten, were also at play and perhaps more instrumental, most notably the intention of salvaging modernity against itself and of curing it of its forgetfulness of the sacred."
+            },
+            {
+              "authors": "Burkhard Liebsch",
+              "title": "Zeigen, Sagen und Verstehen. Paul Ricœurs hermeneutische Wege durch die Phänomenologie − von der Aufmerk--samkeit zur Sensibilität für den Anderen",
+              "abstract": "This essay retraces Paul Ricœur’s references to phenomenological thinking − from his early work on the phenomenology of attention and volition via his methodological considerations of the relation between phenomenology and hermeneutics to his late discussion with Levinas. The paper then focuses on Ricœur’s and Levinas’ debate about the limits of the phenomenological notion of the “given” and “givenness” as such with respect to the “phenomenon” of human sensibility vis-à-vis the otherness of the other."
+            },
+            {
+              "authors": "Marc-Antoine Vallée",
+              "title": "Les sources phénoménologiques de la conception ricœurienne du langage",
+              "abstract": "Does Ricœur’s approach of language enter in contradiction with Husserl’s phenomenological legacy? In response to Claude Romano’s criticisms of the hermeneutical approach of language sustained by Ricœur, this paper intends to shed light on the complex connections between Husserl and Ricœur on the relations between language and experience. It aims to show, against what Romano suggests, that Ricœur’s thinking never leads to a linguistic idealism, but follows effectively a phenomenological exigency through his hermeneutical project."
+            },
+            {
+              "authors": "David-Le-Duc Tiaha",
+              "title": "La réserve de sens de la Lebenswelt. Un enjeu de l’entrecroisement de la phénoménologie et de l’herméneutique",
+              "abstract": "The hermeneutic turn in Ricoeur’s phenomenological ontology of the 1960 cannot be considered a break with his methodological approach of philosophy. In fact, as early as 1950 he had already initiated a first attempt to conjoin phenomenology and hermeneutics by relating eidetic description and explanation. The main purpose of the present analysis is to clarify the constellations constituting the structure of mutual determination between phenomenology and hermeneutics. The paper will focus on the question of the *Lebenswelt*, as reserve of meaning, a concept requiring a structural conjunction of the phenomenological (perception, imagination, re-presentation) and hermeneutical arcs (explication, interpretation, understanding)."
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Articles II. Heresies and Limit-Notions",
+          "articles": [
+            {
+              "authors": "Lorenzo Altieri",
+              "title": "Genèse d’une hérésie: la phénoménologie herméneutique de Paul Ricœur",
+              "abstract": "In this essay I revisit Ricœur’s famous greffe in light of Husserl’s method. In other words, I try to highlight the anti-idealist interpretation of phenomenology exposed by Ricœur in his early project (*Philosophie de la volonté*) and in some later works, in order to present the necessity of the graft of hermeneutics onto the worn out body of western reflexive philosophy. This surgery has a radical effect on the “Subject”: far from provoking a “rejection crisis”, the hermeneutical graft provides the Cogito with a new heart, and gives new life to Ricœur’s *homme capable* – the ultimate character of his long philosophical journey. The essay closes with an alternative interpretation of this “capability”."
+            },
+            {
+              "authors": "Scott Davidson",
+              "title": "The Husserl Heretics: Ricœur, Levinas, and the French Reception of Husserlian Phenomenology",
+              "abstract": "The legacy of Husserlian phenomenology in France, as Paul Ricœur observes, has inspired a series of “Husserlian heresies.” This paper seeks to shed light on the Husserl heretics through a study of two influential thinkers who introduced Husserl’s to French readers: Levinas and Ricœur. Their introductions gave rise to the “standard picture” of Husserl as an Idealist. Their criticism of Husserl’s Idealism then provides the springboard into their own original thought. What ultimately emerges from this, however, are two different visions of how phenomenology should relate to its own limits."
+            },
+            {
+              "authors": "Annalisa Caputo",
+              "title": "A Second Copernican Revolution. Phenomenology of the Mutuality and Poetics of the Gift in the last Ricœur",
+              "abstract": "Most scholars point out that Ricœur’s itinerary ends with a “phenomenology of the capable human being”. In this paper, I will try to propose a different hypothesis and explain why Ricœur’s last writings can be considered the starting point of a *second Copernican revolution within phenomenology*. A revolution of both method (from the analytic to the a-logical) and contents (from the theme of intersubjectivity to the theme of “giving” and loving), which, already in the Preface of *Le volontaire et l’involontaire*, Ricœur wished could follow after the first revolution of the reflexive phenomenology: *a hermeneutic poetic phenomenology* that develops the project that the early Ricœur had drafted, but not completed in the 1950s. This is the project of a *Poetics of the Gift*, in which is hidden, in my opinion, the fecundity of Ricœurian philosophy and the possibility for it to become paradigmatic for the philosophy to come."
+            },
+            {
+              "authors": "Pol Vandevelde",
+              "title": "Le fondement ontologique du récit selon Ricœur: mimesis, dette et attestation",
+              "abstract": "I examine the problem of what Ricœur calls représentance, which is a stand-in narratives offer of what took place (in the case of historical narratives) or actions (in the case of the re-telling of what people did). Ricœur rejects as insufficient two naïve options: first, a simple adequacy between what took place and the historical narrative about it and, second, a simple heterogeneity between them so that historical narratives would be mere “possible versions” of what took place. I explore further why Ricœur brought into consideration the attitude of the one offering the narrative, what he calls a “being-in-debt” or “attestation”. I then offer an assessment of Ricœur’s success in still claiming that what actually happened serves as the ultimate referent of the narratives given of the past event or the action."
+            },
+            {
+              "authors": "Jean-Louis Vieillard-Baron",
+              "title": "Les formes du temps et la vie spirituelle selon Paul Ricœur",
+              "abstract": "In order to identify the role that temporality plays for Ricœur’s view on the spiritual life, I will start my analysis from his interpretation of the Augustinian *Confessions* (book XI, ch. XXX). In his reading, Ricœur makes use of the notion of extension to which he accords multiples meanings (spatial, categorical and existential) and he also points out the conceptual couple of *distensio* / e*xtensio*. I will bring forth Ricœur’s misinterpretation that consists in strongly relating the discovery of this conceptual couple to the distinction between the three inner dimensions of time. I will end with a discussion of Heidegger’s analysis of the *Confessions* and his tentative to temporalize *Dasein* starting from the future."
+            },
+            {
+              "authors": "Marc Crépon",
+              "title": "Traversées de la violence",
+              "abstract": "At the end of the Second World War, the figure of Gandhi haunts political philosophy as it wrestles with the task of justifying violence in the name of history. The story begins with Arthur Koestler’s *Darkness at noon* in 1938. Gandhi’s name appears during a discussion between Roubachof and Ivanof. A few years later (1946), Koestler publishes in French a book entitled *Le Yogi et le commissaire*, analysed by Merleau-Ponty in *Humanisme et terreur* (1946–1947). Camus replies in *L’Homme révolté* (1951). Ricœur’s thinking, examined in the present article, has its own place in this debate. At stake is our own knowledge of the conditions under which the rejection and condemnation of violence might, in fact, accommodate violence."
+            }
+          ]
+        },
+
+        {
+          "sectionTitle": "Articles III. Horizons and Dialogues",
+          "articles": [
+            {
+              "authors": "Eddo Evink",
+              "title": "Horizons of Expectation. Ricœur, Derrida, Patočka",
+              "abstract": "In several texts, Paul Ricœur has elaborated different concepts of horizon: the horizon of tradition that shapes our perspectives, the horizon as a careful set of determinations of the future, the horizon as a divine call that comes from the future towards us. However, the connection of these three views on the horizon, together with the explicitly Christian interpretation of the third horizon are problematic elements in Ricœur’s thoughts on this topic. In this article his views are confronted with the criticism of Jacques Derrida, who uses a quite different notion of horizon: an enclosing limit that dominates the understanding of what seems to fit in its circle. Finally, the notions of horizon and history as formulated by Jan Patočka provide valuable alternatives to Ricœur’s problematic versions of the horizons of expectation, while leaving the underlying thread of his understanding of horizon intact."
+            },
+            {
+              "authors": "Luis António Umbelino",
+              "title": "L’étoffe spatiale de la mémoire. Lectures de M. Merleau-Ponty et P. Ricœur",
+              "abstract": "This paper aims to reflect on the possibilities of approaching the phenomenon of memory in relation to space. In order to approach memory on “the side of space”, we will find our first decisive guidelines in M. Merleau-Ponty’s analysis of habit developed in Phenomenology of Perception. Starting from there, we will then try to show in what way memory, in a way, can be said to belong to places. The final point of the discussion is Ricœur’s investigation of architecture and urbanism’s analogies with narrative, as they allow us to consider a hermeneutic approach to the spatial fabric of time."
+            },
+            {
+              "authors": "Rolf Kühn",
+              "title": "P. Ricœurs religionsphilosophisches Denken zwischen Schrift(en) und absolutem Voraus",
+              "abstract": "Ricœur developed a very elaborated philosophy of religion. At the same time, he always moved along interdisciplinary borders of philosophy, theology, exegesis, historical and language sciences. His religious concerns are in this sense related to pre-philosophical experiences that within certain fields lend themselves to hermeneutical articulation. His analysis of the Scriptures in terms of narrativity deals with biblical texts. However, he doesn’t speak as a theologian, but as a philosopher, since the question of a philosophical and theological hermeneutics is from his own point of view closely related to the fundamental tension between autonomy and heteronomy. This paper regards his work as a new form of French philosophy of religion, and as a result of this includes a critical consideration of the pre-textual sphere understood as an absolute “priority”. This absolute “priority” should be presupposed by any hermeneutics of the written revelation, even when it is not able to provide a final response to its radical-phenomenological implications."
+            },
+            {
+              "authors": "Adam J. Graves",
+              "title": "Before the Text: Ricœur and the “Theological Turn”",
+              "abstract": "This paper begins by arguing that Jean-Luc Marion’s desire to maintain the philosophical rigor of his analysis of revelation has led him to mischaracterize revelation as a purely formal phenomenon devoid of any determinate content. The majority of the paper is devoted to showing that the approach to revelation offered by Paul Ricœur—whose treatment of the phenomenon assumes all of the risks of a thinking exposed to its own historicity—represents an important and all-too-often ignored counterpoint to the prevailing methodological orientation among those associated with the so-called theological turn in phenomenology. The paper contrasts the prevailing methods concerned with uncovering fundamental or “originary” structures with a “hermeneutical” approach to revelation, concerned with the productive imagination and the effective nature of texts."
+            },
+            {
+              "authors": "Natalie Depraz",
+              "title": "D’une science descriptive de l’expérience en première personne: pour une phénoménologie expérientielle",
+              "abstract": "I would like to propose an interpretation of Ricœur’s first phenomenological works in the light of what I call an “experiential phenomenology”, by answering three important questions. The first is a factual and historical interrogation: why has Ricœur abandoned his project of a descriptive phenomenology after publishing his first volume of the The Voluntary and the Involuntary and why did he afterwards direct his philosophical research towards the problem of interpretation? The second interrogation is an epistemological and a methodological one: in what way is the Husserlian phenomenology a first-person approach and how does Ricœur’s phenomenology of the will lead us towards an experiential phenomenology in first person? The final question is heuristical: what criteria should we point out in order to establish a phenomenological science that is 1) descriptive and 2) approaching the experience in first-person?"
+            },
+            {
+              "authors": "Jean-Philippe Pierron",
+              "title": "Appartenance et responsabilité. Paul Ricœur, penseur de l’écologie?",
+              "abstract": "Without having directly tackled the question of ecology, the philosophical hermeneutics of Paul Ricœur offers nevertheless an original treatment of the phenomenological theme of “dwelling”. His hermeneutics of the “long path” underscores the fact that our environment is given to us in the form of tools, institutions and the values of historical communities. Whereas the global ecological crisis could easily give rise to a response that is inattentive to cultural diversity, Ricœur’s explicit attention to the question of what it means to dwell on the earth within the symbolic universe of a culture invites us to think quite differently. Phenomenology makes possible a condensation of the human meaning of our belonging to the Earth; hermeneutics shows how this belonging can only take place within instituted environments."
+            }
+
+          ]
+        },
+
+        {
+          "sectionTitle": "Varia",
+          "articles": [
+            {
+              "authors": "Guillaume Fagniez",
+              "title": "Hermeneutik im Übergang von Dilthey zu Heidegger",
+              "abstract": "Despite the usual genealogies of hermeneutics, Heidegger’s appropriation of Dilthey’s philosophy only deals marginally with hermeneutics. Nevertheless, this paper aims to shed light on elements in favour of an implicit continuity in hermeneutics from Dilthey to Heidegger. Against the general background of the conception of life as self-interpretation, which allows the ontological radicalisation of Dilthey’s hermeneutical concepts, some diltheyan historical and aesthetical paradigms prove to be at work in Heidegger’s first phenomenology of life. “Destruction” itself, the very core of Heidegger’s concept of hermeneutics, can be partially traced back to diltheyan sources."
+            },
+
+            {
+              "authors": "Vincent Blok",
+              "title": "\"Massive Voluntarism\" or Heidegger’s Confrontation with the Will",
+              "abstract": "One of the controversial issues in the development of Heidegger’s thought is the problem of the will. The communis opinio is that Heidegger embraced the concept of the will in a non-critical manner at the beginning of the thirties and , in particular, he employed it in his political speeches of 1933–1934. Jacques Derrida for instance speaks about a “massive voluntarism” in relation to Heidegger’s thought in this period. Also Brett Davis discerns a period of “existential voluntarism” in 1930–1934, in which Heidegger takes over a notion of the will in a non-critical manner. In this article, this interpretation is challenged and a stronger interpretation of Heidegger’s concern with the will is developed. Our hypothesis is that Heidegger’s concern with the will at the onset of the thirties is brought about by his confrontation (*Auseinandersetzung*) with the concept of the will. Based on his lecture courses from 1930 and 1936/37 and his Rectoral Address from 1933, enables us to discern three main characteristics of Heidegger’s destructed concept of the will in the early thirties."
+            }
+
+          ]
+        },
+        {
+          "sectionTitle": "Book reviews",
+          "entry": [
+            "Jean Grondin, *Paul Ricœur*. Paris: PUF, 2013 (Luca M. Possati); ",
+            "François Dosse et Catherine Goldenstein (éd.), *Paul Ricœur: penser la mémoire*. Paris: Seuil, 2013 (Aurore Dumont); ",
+            "Gert-Jan van der Heiden, *The Truth (and Untruth) of Language. Heidegger, Ricoeur and Derrida on Disclosure and Displacement*. Pittsburg: Duquesne University Press, 2010 (Paul-Gabriel Sandu); ",
+            "Marc-Antoine Vallée, *Gadamer et Ricœur. La conception herméneutique du langage*. Rennes: Presses Universitaires de Rennes, 2012 (Paul Marinescu); ",
+            "Saulius Geniusas, *The Origins of the Horizon in Husserl’s Phenomenology*. Dordrecht: Springer, 2012 (Witold Płotka); ",
+            "Annabelle Dufourcq, *La dimension imaginaire du réel dans la philosophie de Husserl*. Dordrecht: Springer, 2011 (Delia Popa); ",
+            "Denis Seron, *Ce que voir veut dire. Essai sur la perception*. Paris: Éditions du Cerf, 2012 (Maria Gyemant); ",
+            "Hans Friesen, Christian Lotz, Jakob Meier, Markus Wolf (Hrsg.), *Ding und Verdinglichung. Technik- und Sozialphilosophie nach Heidegger und der Kritischen Theorie*. München: Wilhelm Fink Verlag, 2012 (Christian Ferencz-Flatz); ",
+            "Larisa Cercel, John Stanley (Hrsg.), *Unterwegs zu einer hermeneutischen Übersetzungswissenschaft. Radegundis Stolze zu ihrem 60. Geburtstag*. Tübingen: Narr Verlag, 2012 (Bogdan Mincă); ",
+            "Johann Michel, *Sociologie du soi. Essai d’herméneutique appliquée*. Rennes: PUR, 2013 (Denisa Butnaru); ",
+            "Jan Patočka, *Aristote, ses devanciers, ses successeurs*. Trad. fr. Erika Abrams. Paris: Vrin, 2011 (Ovidiu Stanciu); ",
+            "Emmanuel Alloa, *Das durchscheinende Bild. Konturen einer medialen Phänomenologie*. Zürich: Diaphanes, 2011 (Mădălina Diaconu)."
+          ]
+        }
       ]
     },
     "12": {
